@@ -1,0 +1,51 @@
+
+
+🧹 Reglas de Limpieza y Validación
+- Eliminar duplicados exactos
+- Filtrar entradas duplicadas por combinación de nombre_lugar, direccion y georeferencia.
+- Separación de georeferencia
+- Partir la columna Georeferencia en dos campos: latitud y longitud.
+- Segmentar dirección completa
+- Descomponer Dirección Completa si es posible, en ciudad, región y país.
+- Si no es posible separar todo, dejar en campos faltantes como NULL o por defecto Desconocido.
+- Validar coordenadas
+- Latitud debe estar entre -90 y 90, longitud entre -180 y 180.
+- Rechazar coordenadas vacías o mal formateadas.
+- Validar texto
+- Asegurar que los campos de texto no estén vacíos y estén correctamente codificados.
+- Normalizar uso de mayúsculas con .strip().title().
+- Control de ambigüedad por ubicación
+- Si un mismo nombre_lugar aparece con distintas coordenadas (ej. “Apple Park”), tratar cada ubicación como entrada independiente, salvo que represente realmente el mismo sitio.
+- Consistencia geográfica mínima
+- Verificar que la ciudad y país estén presentes para cada registro
+
+
+Tabla Lugares
+- id_lugar: entero, clave primaria, autoincremental
+- nombre_lugar: string normalizado (ej. "Eiffel Tower")
+
+
+2. Tabla Direcciones
+- id_lugar: entero, clave foránea a Lugares.id_lugar
+- direccion: campo completo, incluyendo calle, número o zona
+- ciudad: opcional (por si no está en la dirección)
+- region_estado: opcional
+- pais: obligatorio
+
+
+3. Tabla Georeferencias
+- id_lugar: entero, clave foránea a Lugares.id_lugar
+- latitud: float entre -90 y 90
+- longitud: float entre -180 y 180
+
+Además de las tablas, aplicábamos estas reglas:
+- Separar coordenadas en latitud y longitud
+- Validar duplicados con nombre + dirección + coordenadas
+- Normalizar texto (ej. .strip().title())
+- Validar campos requeridos: nombre del lugar, país, coordenadas válidas
+- Usar claves foráneas para mantener integridad
+Cuando tengas los modelos en SQLModel, mándalos y los revisamos juntos. ¿Te gustaría que te dé una plantilla de ejemplo por si quieres copiar y pegarla como base?
+
+
+"parsing inverso" 
+para organizar la direcciones

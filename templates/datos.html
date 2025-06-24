@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/static/dato.css">
+</head>
+<body>
+     <h1>Datos Normalizados</h1>
+
+  <table>
+  <thead>
+    <tr>
+      <th>Lugar</th>
+      <th>Dirección</th>
+      <th>Ciudad</th>
+      <th>Estado</th>
+      <th>Provincia</th>
+      <th>País</th>
+      <th>Latitud</th>
+      <th>Longitud</th>
+    </tr>
+  </thead>
+  <tbody>
+   
+{% for lugar, direccion, georef in zip(lugares[:10], direcciones[:10], georeferencias[:10]) %}
+  <tr>
+    <td>{{ lugar.nombre }}</td>
+    <td>{{ direccion.direccion }}</td>
+    <td>{{ direccion.ciudad }}</td>
+    <td>{{ direccion.estado }}</td>
+    <td>{{ direccion.provincia }}</td>
+    <td>{{ direccion.pais }}</td>
+    <td>{{ georef.latitud }}</td>
+    <td>{{ georef.longitud }}</td>
+  </tr>
+{% endfor %}
+
+  </tbody>
+</table>
+
+<a href="/api/descargar/" download>
+  <button>Descargar CSV</button>
+</a>
+<form action="/api/eliminar-bd/" method="get" onsubmit="return confirm('¿Estás seguro que querés eliminar la base de datos?')">
+  <button style="background-color: crimson; color: white;">🗑️ Eliminar base de datos</button>
+</form>
+
+    <script src="/static/datos.js"></script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+.Titulo{
+    font-size: 2em;
+    color: #e91a1a;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#drop-area {
+  border: 2px dashed #ccc;
+  border-radius: 20px;
+  width: 90%;
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 20px;
+  text-align: center;
+  font-family: sans-serif;
+  color: #333;
+}
+#drop-area.highlight {
+  border-color: #6c6;
+  background-color: #f8fff8;
+}

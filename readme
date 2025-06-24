@@ -1,0 +1,56 @@
+InTEGRANTE NICOLAS PACHECO Y JOSÉ SERRANO
+
+📘 Manual de uso — Plataforma de Normalización de Lugares
+
+🧩 ¿Qué hace esta plataforma?
+Esta aplicación web te permite:
+- Subir un archivo .csv, .xls, .xlsx o .txt con lugares y direcciones.
+- Limpiar automáticamente los datos: nombres, direcciones, coordenadas, fechas.
+- Separar la dirección en ciudad, estado, provincia y país.
+- Validar georreferencias y eliminar errores.
+- Guardar todo estructurado en la base de datos.
+- Ver los primeros registros cargados desde el navegador.
+- Descargar los datos normalizados en un nuevo archivo .csv.
+
+📤 ¿Qué archivo tengo que subir?
+Un archivo delimitado por punto y coma (;) con estas columnas mínimas:
+| Nombre del lugar | Dirección Completa | Georeferencia | Fecha de registro | 
+| Farmacia Central | Concepción, Chile | -36.8271,-73.0503 | 2024-11-15 | 
+
+
+- Georeferencia: en formato "latitud,longitud".
+- Fecha de registro: opcional. Si no está, se pone la fecha actual.
+
+🧪 ¿Y si no tengo un archivo?
+Podés usar nuestro archivo de ejemplo:
+💾 Descargar archivo de prueba
+
+Contiene 300 direcciones reales para testear el sistema sin tener que crear datos manualmente.
+
+🚀 ¿Cómo lo uso?
+- 📂 Subís el archivo desde el formulario web.
+- 🧹 El sistema lo limpia, normaliza, filtra y guarda.
+- 👀 Se redirige a /api/datos/, donde ves los primeros 10 registros.
+- 💾 Hacés clic en el botón “Descargar CSV” para obtener los datos finales.
+
+🛡️ Validaciones automáticas
+- Elimina duplicados exactos.
+- Convierte fechas mal formateadas.
+- Normaliza texto (acentos, espacios raros, etc.).
+- Filtra coordenadas fuera de rango (latitud: –90 a 90 / longitud: –180 a 180).
+- Detecta campos faltantes o inválidos.
+- Si falta una columna obligatoria, muestra un error con los nombres que faltan.
+
+🖱️ Interfaz web
+- Ruta de visualización de datos: /api/datos/
+- Botón de descarga: exporta el último lote cargado desde /api/descargar/
+
+
+👨‍🔧 Recomendaciones extra
+- Subí archivos .csv codificados en UTF-8, separados por ;.
+- Si usás Excel, podés exportar como “CSV delimitado por punto y coma”.
+- Si modificás la estructura, asegurate de mantener los nombres de columnas originales.
+
+
+Warning: 
+SI desea agregar un archivo nuevo y usar solo esos archivos elimine la base de datos con el boton que esta de bajo (No se preocupe estamos en un ambiente de prueba solo de borran todos los datos pero la base dato esta alli ) Recargue la paguina para ver resultado 
