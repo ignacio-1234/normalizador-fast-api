@@ -1,367 +1,42 @@
 nombre;direccion;georeferencia;fecha_registro;latitud;longitud;ciudad;estado;provincia;pais
-Herradura-Cascajal;Puerto Montt, Region De Los Lagos, Desconocido, Chile;-41.591457, -72.974541;2022-08-28;-41.591457;-72.974541;Puerto Montt;Region De Los Lagos;Desconocido;Chile
-Peru;Desconocido, Desconocido, Desconocido, Peru;-18.219607, -74.309875;2023-03-08;-18.219607;-74.309875;Desconocido;Desconocido;Desconocido;Peru
-Ruta Nacional 40;Punta De Balasto, Catamarca, Desconocido, Argentina;-26.950352, -66.126995;2024-12-13;-26.950352;-66.126995;Punta De Balasto;Catamarca;Desconocido;Argentina
-Departamento Confluencia;Desconocido, Neuquen, Desconocido, Argentina;-38.608434, -69.006268;2023-09-10;-38.608434;-69.006268;Desconocido;Neuquen;Desconocido;Argentina
-Calingasta;Desconocido, San Juan, Desconocido, Argentina;-31.964286, -69.395296;2022-05-14;-31.964286;-69.395296;Desconocido;San Juan;Desconocido;Argentina
-Chile;Desconocido, Desconocido, Desconocido, Chile;-40.697315, -74.035495;2023-08-08;-40.697315;-74.035495;Desconocido;Desconocido;Desconocido;Chile
-Antofagasta;Antofagasta, Region De Antofagasta, Desconocido, Chile;-24.135459, -69.297031;2024-04-20;-24.135459;-69.297031;Antofagasta;Region De Antofagasta;Desconocido;Chile
-Cabo De Hornos;Cabo De Hornos, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-54.680898, -68.696176;2024-05-06;-54.680898;-68.696176;Cabo De Hornos;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Municipio De Puelen;Municipio De Puelen, La Pampa, Desconocido, Argentina;-37.087794, -67.318035;2022-08-14;-37.087794;-67.318035;Municipio De Puelen;La Pampa;Desconocido;Argentina
-Departamento Valcheta;Desconocido, Rio Negro, Desconocido, Argentina;-41.267133, -66.040002;2024-03-29;-41.267133;-66.040002;Desconocido;Rio Negro;Desconocido;Argentina
-Departamento Rio Senguer;Desconocido, Chubut, Desconocido, Argentina;-45.734469, -71.170269;2023-06-01;-45.734469;-71.170269;Desconocido;Chubut;Desconocido;Argentina
-Departamento Rosario Vera Penaloza, La Rioja, F5470, Argentina;Desconocido, La Rioja, Desconocido, Argentina;-31.346194, -66.557475;2022-12-30;-31.346194;-66.557475;Desconocido;La Rioja;Desconocido;Argentina
-Municipio De 25 De Mayo;Municipio De 25 De Mayo, La Pampa, Desconocido, Argentina;-37.871172, -67.722498;2025-05-26;-37.871172;-67.722498;Municipio De 25 De Mayo;La Pampa;Desconocido;Argentina
-Distrito Ciudad De Malargue;Desconocido, Mendoza, Desconocido, Argentina;-35.572775, -69.780064;2025-05-16;-35.572775;-69.780064;Desconocido;Mendoza;Desconocido;Argentina
-Departamento Gaiman;Desconocido, Chubut, Desconocido, Argentina;-43.679508, -66.302268;2024-01-17;-43.679508;-66.302268;Desconocido;Chubut;Desconocido;Argentina
-Monte Patria;Monte Patria, Region De Coquimbo, Desconocido, Chile;-30.591087, -70.959159;2022-01-02;-30.591087;-70.959159;Monte Patria;Region De Coquimbo;Desconocido;Chile
-Argentina;Desconocido, Desconocido, Desconocido, Argentina;-54.443266, -66.268054;2024-06-25;-54.443266;-66.268054;Desconocido;Desconocido;Desconocido;Argentina
-Peru;Desconocido, Desconocido, Desconocido, Peru;-17.683413, -72.33788;2024-10-28;-17.683413;-72.33788;Desconocido;Desconocido;Desconocido;Peru
-Municipio De San Antonio De Los Cobres;Municipio De San Antonio De Los Cobres, Salta, Desconocido, Argentina;-24.078258, -66.196311;2024-04-28;-24.078258;-66.196311;Municipio De San Antonio De Los Cobres;Salta;Desconocido;Argentina
-Canton Chiguana;Municipio San Pedro De Quemes, Potosi, Desconocido, Bolivia;-21.049338, -68.04079;2022-12-29;-21.049338;-68.04079;Municipio San Pedro De Quemes;Potosi;Desconocido;Bolivia
-Departamento Nueve De Julio;Desconocido, Rio Negro, Desconocido, Argentina;-40.108727, -67.505854;2022-03-25;-40.108727;-67.505854;Desconocido;Rio Negro;Desconocido;Argentina
-Departamento Pilcaniyeu;Desconocido, Rio Negro, Desconocido, Argentina;-40.2209, -69.837014;2023-04-06;-40.2209;-69.837014;Desconocido;Rio Negro;Desconocido;Argentina
-Lai Aike;Desconocido, Santa Cruz, Desconocido, Argentina;-49.393181, -68.731931;2022-01-01;-49.393181;-68.731931;Desconocido;Santa Cruz;Desconocido;Argentina
-Coyhaique;Coyhaique, Region Aysen Del General Carlos Ibanez Del Campo, Desconocido, Chile;-45.886166, -72.674016;2024-11-12;-45.886166;-72.674016;Coyhaique;Region Aysen Del General Carlos Ibanez Del Campo;Desconocido;Chile
-Guer Aike;Desconocido, Santa Cruz, Desconocido, Argentina;-51.901615, -71.016574;2022-08-02;-51.901615;-71.016574;Desconocido;Santa Cruz;Desconocido;Argentina
-Camarones;Camarones, Region De Arica Y Parinacota, Desconocido, Chile;-19.128157, -70.227053;2025-02-21;-19.128157;-70.227053;Camarones;Region De Arica Y Parinacota;Desconocido;Chile
-Calingasta;Desconocido, San Juan, Desconocido, Argentina;-31.913494, -70.225997;2022-05-24;-31.913494;-70.225997;Desconocido;San Juan;Desconocido;Argentina
-Cochrane;Cochrane, Region Aysen Del General Carlos Ibanez Del Campo, Desconocido, Chile;-47.35188, -73.141142;2025-04-22;-47.35188;-73.141142;Cochrane;Region Aysen Del General Carlos Ibanez Del Campo;Desconocido;Chile
-San Isidro;Villa Independencia, San Juan, Desconocido, Argentina;-31.620802, -68.325449;2023-04-24;-31.620802;-68.325449;Villa Independencia;San Juan;Desconocido;Argentina
-Torres Del Paine;Torres Del Paine, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-51.108712, -73.371905;2023-05-15;-51.108712;-73.371905;Torres Del Paine;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Peru;Desconocido, Desconocido, Desconocido, Peru;-18.495703, -72.102421;2022-07-11;-18.495703;-72.102421;Desconocido;Desconocido;Desconocido;Peru
-Municipio De Corral Quemado;Desconocido, Catamarca, Desconocido, Argentina;-27.033957, -67.020003;2022-01-13;-27.033957;-67.020003;Desconocido;Catamarca;Desconocido;Argentina
-Departamento El Cuy;Desconocido, Rio Negro, Desconocido, Argentina;-39.523139, -68.186113;2024-12-31;-39.523139;-68.186113;Desconocido;Rio Negro;Desconocido;Argentina
-Punta Arenas;Punta Arenas, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-53.665408, -72.950655;2023-08-12;-53.665408;-72.950655;Punta Arenas;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Lago Argentino;Desconocido, Santa Cruz, Desconocido, Argentina;-49.397638, -70.768886;2023-01-29;-49.397638;-70.768886;Desconocido;Santa Cruz;Desconocido;Argentina
-Juan Martin De Pueyrredon;Desconocido, San Luis, Desconocido, Argentina;-34.305088, -66.750899;2025-04-10;-34.305088;-66.750899;Desconocido;San Luis;Desconocido;Argentina
-Aysen;Aysen, Region Aysen Del General Carlos Ibanez Del Campo, Desconocido, Chile;-45.947034, -74.691316;2024-06-18;-45.947034;-74.691316;Aysen;Region Aysen Del General Carlos Ibanez Del Campo;Desconocido;Chile
-Cisnes;Cisnes, Region Aysen Del General Carlos Ibanez Del Campo, Desconocido, Chile;-44.958304, -72.880443;2023-04-02;-44.958304;-72.880443;Cisnes;Region Aysen Del General Carlos Ibanez Del Campo;Desconocido;Chile
-Portezuelo, Provincia De Itata, Region De Nuble, Chile;Portezuelo, Region De Nuble, Desconocido, Chile;-36.595464, -72.40557;2022-12-28;-36.595464;-72.40557;Portezuelo;Region De Nuble;Desconocido;Chile
-Corque, Carangas, Oruro, Bolivia;Corque, Oruro, Desconocido, Bolivia;-18.698266, -67.684375;2023-08-09;-18.698266;-67.684375;Corque;Oruro;Desconocido;Bolivia
-Estancia Muytha;Municipio Colcha K, Potosi, Desconocido, Bolivia;-21.241725, -66.794203;2022-09-02;-21.241725;-66.794203;Municipio Colcha K;Potosi;Desconocido;Bolivia
-Pichingual;Carahue, Region De La Araucania, Desconocido, Chile;-38.72436, -73.38934;2023-01-12;-38.72436;-73.38934;Carahue;Region De La Araucania;Desconocido;Chile
-Chile;Desconocido, Desconocido, Desconocido, Chile;-33.855325, -71.857424;2023-06-26;-33.855325;-71.857424;Desconocido;Desconocido;Desconocido;Chile
-Chile;Desconocido, Desconocido, Desconocido, Chile;-25.689872, -70.835116;2023-05-24;-25.689872;-70.835116;Desconocido;Desconocido;Desconocido;Chile
-Rio Chico;Desconocido, Santa Cruz, Desconocido, Argentina;-48.986504, -71.485717;2022-03-27;-48.986504;-71.485717;Desconocido;Santa Cruz;Desconocido;Argentina
-Sector Lagunillas;Aysen, Region Aysen Del General Carlos Ibanez Del Campo, Desconocido, Chile;-45.042149, -73.754309;2025-01-14;-45.042149;-73.754309;Aysen;Region Aysen Del General Carlos Ibanez Del Campo;Desconocido;Chile
-Ruta N-783;El Carmen, Region De Nuble, Desconocido, Chile;-36.929853, -72.058601;2023-01-26;-36.929853;-72.058601;El Carmen;Region De Nuble;Desconocido;Chile
-Municipio De Tolar Grande;Municipio De Tolar Grande, Salta, Desconocido, Argentina;-24.769068, -68.421998;2022-05-07;-24.769068;-68.421998;Municipio De Tolar Grande;Salta;Desconocido;Argentina
-Ruta Nacional 1S40;Norquinco, Rio Negro, Desconocido, Argentina;-41.971961, -71.115033;2022-09-08;-41.971961;-71.115033;Norquinco;Rio Negro;Desconocido;Argentina
-Departamento General Roca;Desconocido, Rio Negro, Desconocido, Argentina;-38.123952, -68.160836;2024-09-01;-38.123952;-68.160836;Desconocido;Rio Negro;Desconocido;Argentina
-Natales;Puerto Natales, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-51.931752, -72.144647;2022-01-29;-51.931752;-72.144647;Puerto Natales;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Punta Arenas;Punta Arenas, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-53.363846, -71.312378;2023-12-14;-53.363846;-71.312378;Punta Arenas;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Ta-610;Sama, Tacna, Tacna, Peru;-17.931322, -70.610065;2024-08-01;-17.931322;-70.610065;Sama;Tacna;Tacna;Peru
-Departamento Sarmiento;Desconocido, Chubut, Desconocido, Argentina;-45.180439, -68.790167;2023-01-09;-45.180439;-68.790167;Desconocido;Chubut;Desconocido;Argentina
-Departamento Arauco;Desconocido, La Rioja, Desconocido, Argentina;-28.519379, -66.755053;2024-12-26;-28.519379;-66.755053;Desconocido;La Rioja;Desconocido;Argentina
-Distrito El Nihuil;Distrito El Nihuil, Mendoza, Desconocido, Argentina;-34.916204, -68.547349;2022-07-19;-34.916204;-68.547349;Distrito El Nihuil;Mendoza;Desconocido;Argentina
-Rio Verde;Rio Verde, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-53.211347, -72.665936;2023-09-26;-53.211347;-72.665936;Rio Verde;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Timaukel;Timaukel, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-53.85503, -69.396639;2023-01-22;-53.85503;-69.396639;Timaukel;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Camino Punta El Monte;Coyhaique, Region Aysen Del General Carlos Ibanez Del Campo, Desconocido, Chile;-45.370868, -71.525941;2024-04-08;-45.370868;-71.525941;Coyhaique;Region Aysen Del General Carlos Ibanez Del Campo;Desconocido;Chile
-Villa Mascardi;Desconocido, Rio Negro, Desconocido, Argentina;-41.354774, -71.491907;2023-09-09;-41.354774;-71.491907;Desconocido;Rio Negro;Desconocido;Argentina
-Ruta Provincial 21;Desconocido, Neuquen, Desconocido, Argentina;-37.946829, -70.646391;2025-03-30;-37.946829;-70.646391;Desconocido;Neuquen;Desconocido;Argentina
-Deseado;Desconocido, Santa Cruz, Desconocido, Argentina;-47.412657, -69.495225;2024-09-02;-47.412657;-69.495225;Desconocido;Santa Cruz;Desconocido;Argentina
-Lago Buenos Aires;Desconocido, Santa Cruz, Desconocido, Argentina;-46.754236, -71.372128;2024-11-18;-46.754236;-71.372128;Desconocido;Santa Cruz;Desconocido;Argentina
-Departamento Antofagasta De La Sierra;Desconocido, Catamarca, Desconocido, Argentina;-25.713916, -67.180136;2023-05-31;-25.713916;-67.180136;Desconocido;Catamarca;Desconocido;Argentina
-Argentina;Desconocido, Desconocido, Desconocido, Argentina;-52.355278, -68.35593;2023-06-26;-52.355278;-68.35593;Desconocido;Desconocido;Desconocido;Argentina
-Departamento Paso De Indios;Desconocido, Chubut, Desconocido, Argentina;-44.100069, -69.190399;2023-10-24;-44.100069;-69.190399;Desconocido;Chubut;Desconocido;Argentina
-Rio Chico;Desconocido, Santa Cruz, Desconocido, Argentina;-48.013882, -70.740534;2024-11-04;-48.013882;-70.740534;Desconocido;Santa Cruz;Desconocido;Argentina
-Lago Argentino;Desconocido, Santa Cruz, Desconocido, Argentina;-49.635236, -71.789988;2024-08-23;-49.635236;-71.789988;Desconocido;Santa Cruz;Desconocido;Argentina
-Municipio San Pablo De Lipez;Municipio San Pablo De Lipez, Potosi, Desconocido, Bolivia;-22.055776, -67.107536;2025-06-22;-22.055776;-67.107536;Municipio San Pablo De Lipez;Potosi;Desconocido;Bolivia
-Chile;Desconocido, Desconocido, Desconocido, Chile;-23.587325, -70.748082;2022-10-13;-23.587325;-70.748082;Desconocido;Desconocido;Desconocido;Chile
-Departamento Florentino Ameghino;Desconocido, Chubut, Desconocido, Argentina;-43.980508, -66.189805;2024-03-14;-43.980508;-66.189805;Desconocido;Chubut;Desconocido;Argentina
-Rio Chico;Desconocido, Santa Cruz, Desconocido, Argentina;-48.763273, -69.883929;2025-03-19;-48.763273;-69.883929;Desconocido;Santa Cruz;Desconocido;Argentina
-Juan Martin De Pueyrredon;Desconocido, San Luis, Desconocido, Argentina;-34.742316, -66.170528;2023-09-21;-34.742316;-66.170528;Desconocido;San Luis;Desconocido;Argentina
-Municipio De Puelen;Municipio De Puelen, La Pampa, Desconocido, Argentina;-37.263181, -67.92333;2022-07-08;-37.263181;-67.92333;Municipio De Puelen;La Pampa;Desconocido;Argentina
-Departamento Gaiman;Desconocido, Chubut, Desconocido, Argentina;-43.169061, -66.299616;2023-09-10;-43.169061;-66.299616;Desconocido;Chubut;Desconocido;Argentina
-Departamento Picunches;Desconocido, Neuquen, Desconocido, Argentina;-38.407181, -70.842937;2024-10-19;-38.407181;-70.842937;Desconocido;Neuquen;Desconocido;Argentina
-Distrito Las Malvinas;Distrito Las Malvinas, Mendoza, Desconocido, Argentina;-34.954016, -68.319665;2024-08-09;-34.954016;-68.319665;Distrito Las Malvinas;Mendoza;Desconocido;Argentina
-General Pedernera;Desconocido, San Luis, Desconocido, Argentina;-33.533843, -66.160666;2022-06-30;-33.533843;-66.160666;Desconocido;San Luis;Desconocido;Argentina
-Calingasta;Desconocido, San Juan, Desconocido, Argentina;-31.915244, -69.568172;2022-09-14;-31.915244;-69.568172;Desconocido;San Juan;Desconocido;Argentina
-Puntilla Quiao;Chonchi, Region De Los Lagos, Desconocido, Chile;-42.666793, -73.924266;2023-02-11;-42.666793;-73.924266;Chonchi;Region De Los Lagos;Desconocido;Chile
-Departamento Alumine;Desconocido, Neuquen, Desconocido, Argentina;-39.270116, -70.805033;2025-02-28;-39.270116;-70.805033;Desconocido;Neuquen;Desconocido;Argentina
-Lago Buenos Aires;Desconocido, Santa Cruz, Desconocido, Argentina;-46.715976, -70.829652;2023-02-01;-46.715976;-70.829652;Desconocido;Santa Cruz;Desconocido;Argentina
-Tortel;Tortel, Region Aysen Del General Carlos Ibanez Del Campo, Desconocido, Chile;-47.311036, -73.790477;2022-02-24;-47.311036;-73.790477;Tortel;Region Aysen Del General Carlos Ibanez Del Campo;Desconocido;Chile
-San Pedro De Atacama;San Pedro De Atacama, Region De Antofagasta, Desconocido, Chile;-22.91428, -67.418082;2023-02-20;-22.91428;-67.418082;San Pedro De Atacama;Region De Antofagasta;Desconocido;Chile
-Esmeralda;Canete, Region Del Biobio, Desconocido, Chile;-37.799184, -73.391267;2024-12-14;-37.799184;-73.391267;Canete;Region Del Biobio;Desconocido;Chile
-Lago Buenos Aires;Desconocido, Santa Cruz, Desconocido, Argentina;-46.43026, -70.855882;2023-02-20;-46.43026;-70.855882;Desconocido;Santa Cruz;Desconocido;Argentina
-Departamento Atlantico;Desconocido, Chubut, Desconocido, Argentina;-45.800152, -66.683784;2022-10-20;-45.800152;-66.683784;Desconocido;Chubut;Desconocido;Argentina
-Cisnes;Cisnes, Region Aysen Del General Carlos Ibanez Del Campo, Desconocido, Chile;-43.805451, -73.17159;2022-05-02;-43.805451;-73.17159;Cisnes;Region Aysen Del General Carlos Ibanez Del Campo;Desconocido;Chile
-Santa Rosa;Los Angeles, Region Del Biobio, Desconocido, Chile;-37.250275, -72.398901;2023-07-07;-37.250275;-72.398901;Los Angeles;Region Del Biobio;Desconocido;Chile
-Pozo Almonte;Pozo Almonte, Region De Tarapaca, Desconocido, Chile;-20.928118, -69.438954;2024-03-25;-20.928118;-69.438954;Pozo Almonte;Region De Tarapaca;Desconocido;Chile
-Palena;Palena, Region De Los Lagos, Desconocido, Chile;-43.893392, -71.992893;2022-05-13;-43.893392;-71.992893;Palena;Region De Los Lagos;Desconocido;Chile
-Municipio De Fiambala;Municipio De Fiambala, Catamarca, Desconocido, Argentina;-27.709353, -69.017668;2022-05-08;-27.709353;-69.017668;Municipio De Fiambala;Catamarca;Desconocido;Argentina
-Departamento Tehuelches;Desconocido, Chubut, Desconocido, Argentina;-43.826934, -69.964104;2025-03-28;-43.826934;-69.964104;Desconocido;Chubut;Desconocido;Argentina
-Calama;Calama, Region De Antofagasta, Desconocido, Chile;-22.390292, -68.948055;2024-02-19;-22.390292;-68.948055;Calama;Region De Antofagasta;Desconocido;Chile
-Condominio San Francisco;Linares, Desconocido, Desconocido, Chile;-35.845387, -71.649084;2023-08-16;-35.845387;-71.649084;Linares;Desconocido;Desconocido;Chile
-Municipio De San Antonio De Los Cobres;Municipio De San Antonio De Los Cobres, Salta, Desconocido, Argentina;-24.287801, -66.909719;2023-06-12;-24.287801;-66.909719;Municipio De San Antonio De Los Cobres;Salta;Desconocido;Argentina
-Departamento Cushamen, Chubut, Argentina;Desconocido, Chubut, Desconocido, Argentina;-42.347425, -70.958011;2024-04-27;-42.347425;-70.958011;Desconocido;Chubut;Desconocido;Argentina
-Huara;Huara, Region De Tarapaca, Desconocido, Chile;-19.825989, -69.657613;2023-03-03;-19.825989;-69.657613;Huara;Region De Tarapaca;Desconocido;Chile
-Peru;Desconocido, Desconocido, Desconocido, Peru;-18.329676, -74.004931;2023-06-23;-18.329676;-74.004931;Desconocido;Desconocido;Desconocido;Peru
-Sierra Gorda;Sierra Gorda, Region De Antofagasta, Desconocido, Chile;-23.118948, -68.980173;2023-12-25;-23.118948;-68.980173;Sierra Gorda;Region De Antofagasta;Desconocido;Chile
-Coyhuaruma;Municipio Pocoata, Potosi, Desconocido, Bolivia;-18.655517, -66.111766;2024-06-19;-18.655517;-66.111766;Municipio Pocoata;Potosi;Desconocido;Bolivia
-Departamento Escalante;Desconocido, Chubut, Desconocido, Argentina;-45.818927, -68.034055;2023-04-23;-45.818927;-68.034055;Desconocido;Chubut;Desconocido;Argentina
-Distrito Pareditas;Distrito Pareditas, Mendoza, Desconocido, Argentina;-34.125824, -68.971901;2025-01-11;-34.125824;-68.971901;Distrito Pareditas;Mendoza;Desconocido;Argentina
-Argentina;Desconocido, Desconocido, Desconocido, Argentina;-46.378267, -67.17951;2023-01-12;-46.378267;-67.17951;Desconocido;Desconocido;Desconocido;Argentina
-Taipimarca;Arica, Region De Arica Y Parinacota, Desconocido, Chile;-18.384189, -69.934877;2024-05-30;-18.384189;-69.934877;Arica;Region De Arica Y Parinacota;Desconocido;Chile
-Departamento Sarmiento;Desconocido, Chubut, Desconocido, Argentina;-45.573453, -68.418862;2024-10-02;-45.573453;-68.418862;Desconocido;Chubut;Desconocido;Argentina
-Coronel Felipe Varela;Desconocido, La Rioja, Desconocido, Argentina;-29.517464, -68.370542;2025-04-25;-29.517464;-68.370542;Desconocido;La Rioja;Desconocido;Argentina
-Antofagasta;Antofagasta, Region De Antofagasta, Desconocido, Chile;-23.730195, -70.088104;2023-12-06;-23.730195;-70.088104;Antofagasta;Region De Antofagasta;Desconocido;Chile
-Departamento Valcheta;Desconocido, Rio Negro, Desconocido, Argentina;-41.429832, -66.289311;2022-03-22;-41.429832;-66.289311;Desconocido;Rio Negro;Desconocido;Argentina
-Iglesia;Desconocido, San Juan, Desconocido, Argentina;-29.162265, -68.954373;2022-07-26;-29.162265;-68.954373;Desconocido;San Juan;Desconocido;Argentina
-Rio Chico;Desconocido, Santa Cruz, Desconocido, Argentina;-48.775735, -71.883712;2022-04-02;-48.775735;-71.883712;Desconocido;Santa Cruz;Desconocido;Argentina
-Departamento Atlantico;Desconocido, Chubut, Desconocido, Argentina;-45.345016, -66.03135;2024-07-21;-45.345016;-66.03135;Desconocido;Chubut;Desconocido;Argentina
-San Gregorio;San Gregorio, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-52.199123, -70.512304;2022-10-25;-52.199123;-70.512304;San Gregorio;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Departamento Veinticinco De Mayo;Desconocido, Rio Negro, Desconocido, Argentina;-41.798361, -68.197938;2024-09-09;-41.798361;-68.197938;Desconocido;Rio Negro;Desconocido;Argentina
-Guer Aike;Desconocido, Santa Cruz, Desconocido, Argentina;-51.843167, -71.85992;2025-02-09;-51.843167;-71.85992;Desconocido;Santa Cruz;Desconocido;Argentina
-Tortel;Tortel, Region Aysen Del General Carlos Ibanez Del Campo, Desconocido, Chile;-48.147761, -73.528986;2024-05-30;-48.147761;-73.528986;Tortel;Region Aysen Del General Carlos Ibanez Del Campo;Desconocido;Chile
-Departamento Cushamen;Desconocido, Chubut, Desconocido, Argentina;-42.673139, -70.032299;2022-04-22;-42.673139;-70.032299;Desconocido;Chubut;Desconocido;Argentina
-Chanaral;Chanaral, Region De Atacama, Desconocido, Chile;-26.760935, -70.352697;2023-01-19;-26.760935;-70.352697;Chanaral;Region De Atacama;Desconocido;Chile
-Departamento Telsen;Desconocido, Chubut, Desconocido, Argentina;-42.515705, -66.469126;2022-01-29;-42.515705;-66.469126;Desconocido;Chubut;Desconocido;Argentina
-Municipio De Villa General Roca;Desconocido, San Luis, Desconocido, Argentina;-32.64653, -66.456778;2022-02-21;-32.64653;-66.456778;Desconocido;San Luis;Desconocido;Argentina
-Belgrano;Desconocido, San Luis, Desconocido, Argentina;-32.553034, -66.446741;2022-08-25;-32.553034;-66.446741;Desconocido;San Luis;Desconocido;Argentina
-Argentina;Desconocido, Desconocido, Desconocido, Argentina;-52.698854, -68.389688;2024-10-29;-52.698854;-68.389688;Desconocido;Desconocido;Desconocido;Argentina
-Montenegro;Tiltil, Region Metropolitana De Santiago, Desconocido, Chile;-32.959474, -70.863747;2024-01-08;-32.959474;-70.863747;Tiltil;Region Metropolitana De Santiago;Desconocido;Chile
-Ruta Provincial 6;Desconocido, Neuquen, Desconocido, Argentina;-37.517036, -68.720692;2023-10-16;-37.517036;-68.720692;Desconocido;Neuquen;Desconocido;Argentina
-Iglesia;Desconocido, San Juan, Desconocido, Argentina;-29.316426, -69.802395;2022-02-03;-29.316426;-69.802395;Desconocido;San Juan;Desconocido;Argentina
-Comision De Fomento De Limay Mahuida;Desconocido, La Pampa, Desconocido, Argentina;-37.164708, -66.938256;2022-05-18;-37.164708;-66.938256;Desconocido;La Pampa;Desconocido;Argentina
-Distrito San Miguel;Desconocido, Mendoza, Desconocido, Argentina;-32.803147, -67.415849;2024-02-03;-32.803147;-67.415849;Desconocido;Mendoza;Desconocido;Argentina
-Ullum;Desconocido, San Juan, Desconocido, Argentina;-31.108086, -68.796211;2025-05-18;-31.108086;-68.796211;Desconocido;San Juan;Desconocido;Argentina
-Comunidad Santos Leufuman, Nueva Imperial, Provincia De Cautin, Region De La Araucania, Chile;Nueva Imperial, Region De La Araucania, Desconocido, Chile;-38.652843, -72.94364;2024-06-19;-38.652843;-72.94364;Nueva Imperial;Region De La Araucania;Desconocido;Chile
-Copiapo;Copiapo, Region De Atacama, Desconocido, Chile;-26.870695, -69.051615;2024-07-11;-26.870695;-69.051615;Copiapo;Region De Atacama;Desconocido;Chile
-Cabo De Hornos;Cabo De Hornos, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-54.754038, -68.975587;2022-05-23;-54.754038;-68.975587;Cabo De Hornos;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Jachal;Desconocido, San Juan, Desconocido, Argentina;-30.272299, -68.866078;2024-08-12;-30.272299;-68.866078;Desconocido;San Juan;Desconocido;Argentina
-Municipio De Puerta De Corral Quemado;Desconocido, Catamarca, Desconocido, Argentina;-27.414654, -67.135265;2023-04-15;-27.414654;-67.135265;Desconocido;Catamarca;Desconocido;Argentina
-Distrito San Miguel;Desconocido, Mendoza, Desconocido, Argentina;-32.677351, -67.411178;2023-01-14;-32.677351;-67.411178;Desconocido;Mendoza;Desconocido;Argentina
-Departamento Veinticinco De Mayo;Desconocido, Rio Negro, Desconocido, Argentina;-40.606563, -69.482997;2022-06-11;-40.606563;-69.482997;Desconocido;Rio Negro;Desconocido;Argentina
-Peru;Desconocido, Desconocido, Desconocido, Peru;-18.917947, -72.861684;2025-03-05;-18.917947;-72.861684;Desconocido;Desconocido;Desconocido;Peru
-Paso Gobernador Gregores;Desconocido, Santa Cruz, Desconocido, Argentina;-47.844362, -66.599465;2025-03-22;-47.844362;-66.599465;Desconocido;Santa Cruz;Desconocido;Argentina
-Las Tortolas;Combarbala, Region De Coquimbo, Desconocido, Chile;-30.936086, -71.095489;2025-02-19;-30.936086;-71.095489;Combarbala;Region De Coquimbo;Desconocido;Chile
-Peru;Desconocido, Desconocido, Desconocido, Peru;-18.101695, -72.044288;2022-03-16;-18.101695;-72.044288;Desconocido;Desconocido;Desconocido;Peru
-Distrito Rama Caida;Distrito Rama Caida, Mendoza, Desconocido, Argentina;-34.937241, -68.408601;2022-04-29;-34.937241;-68.408601;Distrito Rama Caida;Mendoza;Desconocido;Argentina
-Municipio De Esquel;Municipio De Esquel, Chubut, Desconocido, Argentina;-42.757568, -71.21115;2023-09-18;-42.757568;-71.21115;Municipio De Esquel;Chubut;Desconocido;Argentina
-Maria Elena;Maria Elena, Region De Antofagasta, Desconocido, Chile;-22.463702, -69.865114;2024-02-26;-22.463702;-69.865114;Maria Elena;Region De Antofagasta;Desconocido;Chile
-Urmiri De Quillacas;Urmiri De Quillacas, Oruro, Desconocido, Bolivia;-19.211735, -66.68758;2023-06-14;-19.211735;-66.68758;Urmiri De Quillacas;Oruro;Desconocido;Bolivia
-Municipio Colcha K;Municipio Colcha K, Potosi, Desconocido, Bolivia;-20.398697, -67.663997;2025-03-03;-20.398697;-67.663997;Municipio Colcha K;Potosi;Desconocido;Bolivia
-Distrito Las Catitas;Distrito Las Catitas, Mendoza, Desconocido, Argentina;-33.923407, -67.961177;2023-02-16;-33.923407;-67.961177;Distrito Las Catitas;Mendoza;Desconocido;Argentina
-La Esperanza, San Clemente, Provincia De Talca, Chile;San Clemente, Desconocido, Desconocido, Chile;-35.664443, -71.233521;2022-12-11;-35.664443;-71.233521;San Clemente;Desconocido;Desconocido;Chile
-Guer Aike;Desconocido, Santa Cruz, Desconocido, Argentina;-50.884301, -70.541283;2023-11-01;-50.884301;-70.541283;Desconocido;Santa Cruz;Desconocido;Argentina
-Departamento Vinchina;Desconocido, La Rioja, Desconocido, Argentina;-28.47989, -68.771187;2024-08-19;-28.47989;-68.771187;Desconocido;La Rioja;Desconocido;Argentina
-Municipio De Fiambala;Municipio De Fiambala, Catamarca, Desconocido, Argentina;-27.50663, -68.759394;2023-08-24;-27.50663;-68.759394;Municipio De Fiambala;Catamarca;Desconocido;Argentina
-Uyuni;Uyuni, Potosi, Desconocido, Bolivia;-20.756188, -66.495327;2023-09-22;-20.756188;-66.495327;Uyuni;Potosi;Desconocido;Bolivia
-Hualaihue;Hualaihue, Region De Los Lagos, Desconocido, Chile;-42.037058, -72.939965;2024-05-03;-42.037058;-72.939965;Hualaihue;Region De Los Lagos;Desconocido;Chile
-Puerto Varas;Puerto Varas, Region De Los Lagos, Desconocido, Chile;-41.3384, -72.338574;2024-12-10;-41.3384;-72.338574;Puerto Varas;Region De Los Lagos;Desconocido;Chile
-Rio Verde;Rio Verde, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-52.646556, -71.531824;2025-01-07;-52.646556;-71.531824;Rio Verde;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Municipio De La Humada;Desconocido, La Pampa, Desconocido, Argentina;-36.681364, -68.051631;2023-07-31;-36.681364;-68.051631;Desconocido;La Pampa;Desconocido;Argentina
-Tortel;Tortel, Region Aysen Del General Carlos Ibanez Del Campo, Desconocido, Chile;-48.22719, -74.644783;2022-04-13;-48.22719;-74.644783;Tortel;Region Aysen Del General Carlos Ibanez Del Campo;Desconocido;Chile
-Municipio De Puelen;Municipio De Puelen, La Pampa, Desconocido, Argentina;-36.932292, -67.243978;2025-04-17;-36.932292;-67.243978;Municipio De Puelen;La Pampa;Desconocido;Argentina
-Lago Buenos Aires;Desconocido, Santa Cruz, Desconocido, Argentina;-47.230088, -70.314074;2024-10-24;-47.230088;-70.314074;Desconocido;Santa Cruz;Desconocido;Argentina
-Departamento Rio Grande;Desconocido, Tierra Del Fuego, Desconocido, Argentina;-53.97775, -68.140582;2024-06-09;-53.97775;-68.140582;Desconocido;Tierra Del Fuego;Desconocido;Argentina
-Camino A Mina Lollta;Chanaral, Region De Atacama, Desconocido, Chile;-26.557513, -70.124208;2022-06-13;-26.557513;-70.124208;Chanaral;Region De Atacama;Desconocido;Chile
-Departamento Paso De Indios;Desconocido, Chubut, Desconocido, Argentina;-44.524276, -68.294163;2024-04-14;-44.524276;-68.294163;Desconocido;Chubut;Desconocido;Argentina
-Peru;Desconocido, Desconocido, Desconocido, Peru;-19.087436, -74.709291;2022-08-02;-19.087436;-74.709291;Desconocido;Desconocido;Desconocido;Peru
-Ruta S-40;Carahue, Region De La Araucania, Desconocido, Chile;-38.701257, -73.17852;2023-08-03;-38.701257;-73.17852;Carahue;Region De La Araucania;Desconocido;Chile
-Municipio De Alto Rio Senguer;Desconocido, Chubut, Desconocido, Argentina;-44.893509, -71.308568;2022-05-19;-44.893509;-71.308568;Desconocido;Chubut;Desconocido;Argentina
-Campo La Carrerita;Desconocido, San Juan, Desconocido, Argentina;-31.845977, -67.293467;2023-08-24;-31.845977;-67.293467;Desconocido;San Juan;Desconocido;Argentina
-Municipio De La Humada;Desconocido, La Pampa, Desconocido, Argentina;-36.075836, -67.908935;2024-05-20;-36.075836;-67.908935;Desconocido;La Pampa;Desconocido;Argentina
-Lago Argentino;Desconocido, Santa Cruz, Desconocido, Argentina;-50.602395, -73.12633;2022-03-26;-50.602395;-73.12633;Desconocido;Santa Cruz;Desconocido;Argentina
-Municipio De General Enrique Godoy;Municipio De General Enrique Godoy, Rio Negro, Desconocido, Argentina;-39.245013, -67.175641;2022-04-28;-39.245013;-67.175641;Municipio De General Enrique Godoy;Rio Negro;Desconocido;Argentina
-Departamento Lacar;Desconocido, Neuquen, Desconocido, Argentina;-40.280042, -71.608038;2024-06-28;-40.280042;-71.608038;Desconocido;Neuquen;Desconocido;Argentina
-Taltal;Taltal, Region De Antofagasta, Desconocido, Chile;-24.897108, -69.372809;2024-12-06;-24.897108;-69.372809;Taltal;Region De Antofagasta;Desconocido;Chile
-Natales;Puerto Natales, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-49.946338, -73.865992;2022-12-21;-49.946338;-73.865992;Puerto Natales;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Chile;Desconocido, Desconocido, Desconocido, Chile;-55.720856, -66.60454;2022-12-24;-55.720856;-66.60454;Desconocido;Desconocido;Desconocido;Chile
-Flora, Guer Aike, Santa Cruz, Argentina;Desconocido, Santa Cruz, Desconocido, Argentina;-50.955586, -70.310745;2024-11-02;-50.955586;-70.310745;Desconocido;Santa Cruz;Desconocido;Argentina
-Departamento Telsen;Desconocido, Chubut, Desconocido, Argentina;-42.557984, -67.399528;2022-01-08;-42.557984;-67.399528;Desconocido;Chubut;Desconocido;Argentina
-Cabo De Hornos;Cabo De Hornos, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-55.042255, -69.653977;2022-09-22;-55.042255;-69.653977;Cabo De Hornos;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Municipio De Puelen;Municipio De Puelen, La Pampa, Desconocido, Argentina;-37.091619, -68.154086;2022-05-30;-37.091619;-68.154086;Municipio De Puelen;La Pampa;Desconocido;Argentina
-San Gregorio;San Gregorio, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-52.462023, -70.023698;2023-10-29;-52.462023;-70.023698;San Gregorio;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Departamento Sanagasta;Desconocido, La Rioja, Desconocido, Argentina;-29.413448, -67.020077;2024-10-07;-29.413448;-67.020077;Desconocido;La Rioja;Desconocido;Argentina
-Argentina;Desconocido, Desconocido, Desconocido, Argentina;-54.365448, -66.277759;2025-06-20;-54.365448;-66.277759;Desconocido;Desconocido;Desconocido;Argentina
-Municipio Escara;Municipio Escara, Oruro, Desconocido, Bolivia;-18.739821, -68.128647;2024-11-08;-18.739821;-68.128647;Municipio Escara;Oruro;Desconocido;Bolivia
-Rawson;Desconocido, San Juan, Desconocido, Argentina;-31.81031, -68.445125;2025-06-13;-31.81031;-68.445125;Desconocido;San Juan;Desconocido;Argentina
-Departamento Antofagasta De La Sierra;Desconocido, Catamarca, Desconocido, Argentina;-25.76764, -67.359346;2022-02-08;-25.76764;-67.359346;Desconocido;Catamarca;Desconocido;Argentina
-Municipio De Sarmiento, Departamento Sarmiento, Chubut, Argentina;Desconocido, Chubut, Desconocido, Argentina;-45.544321, -69.081013;2024-05-14;-45.544321;-69.081013;Desconocido;Chubut;Desconocido;Argentina
-Calama;Calama, Region De Antofagasta, Desconocido, Chile;-22.840232, -68.714351;2022-05-29;-22.840232;-68.714351;Calama;Region De Antofagasta;Desconocido;Chile
-Chaiten;Chaiten, Region De Los Lagos, Desconocido, Chile;-43.240295, -72.789899;2025-06-03;-43.240295;-72.789899;Chaiten;Region De Los Lagos;Desconocido;Chile
-Mina Nueva Victoria;Pozo Almonte, Region De Tarapaca, Desconocido, Chile;-20.979959, -69.596688;2023-01-10;-20.979959;-69.596688;Pozo Almonte;Region De Tarapaca;Desconocido;Chile
-Lago Verde;Lago Verde, Region Aysen Del General Carlos Ibanez Del Campo, Desconocido, Chile;-44.611688, -72.257026;2025-02-06;-44.611688;-72.257026;Lago Verde;Region Aysen Del General Carlos Ibanez Del Campo;Desconocido;Chile
-Departamento Rosario Vera Penaloza;Desconocido, La Rioja, Desconocido, Argentina;-31.363331, -66.40086;2024-07-15;-31.363331;-66.40086;Desconocido;La Rioja;Desconocido;Argentina
-Ruta V-815;Puerto Montt, Region De Los Lagos, Desconocido, Chile;-41.63079, -73.100267;2022-02-28;-41.63079;-73.100267;Puerto Montt;Region De Los Lagos;Desconocido;Chile
-Villa Tacul;San Carlos De Bariloche, Rio Negro, Desconocido, Argentina;-41.028253, -71.54896;2023-09-02;-41.028253;-71.54896;San Carlos De Bariloche;Rio Negro;Desconocido;Argentina
-Departamento Cushamen;Desconocido, Chubut, Desconocido, Argentina;-42.503695, -70.587428;2024-07-25;-42.503695;-70.587428;Desconocido;Chubut;Desconocido;Argentina
-Rio Chico;Desconocido, Santa Cruz, Desconocido, Argentina;-48.855714, -71.060384;2023-03-08;-48.855714;-71.060384;Desconocido;Santa Cruz;Desconocido;Argentina
-Canton Cahuana;Municipio Llica, Potosi, Desconocido, Bolivia;-20.126618, -68.620375;2024-02-12;-20.126618;-68.620375;Municipio Llica;Potosi;Desconocido;Bolivia
-Iglesia, San Juan, Argentina;Desconocido, San Juan, Desconocido, Argentina;-28.510622, -69.480013;2024-02-11;-28.510622;-69.480013;Desconocido;San Juan;Desconocido;Argentina
-Illapel;Illapel, Region De Coquimbo, Desconocido, Chile;-31.419073, -70.778547;2022-09-06;-31.419073;-70.778547;Illapel;Region De Coquimbo;Desconocido;Chile
-Departamento Cushamen;Desconocido, Chubut, Desconocido, Argentina;-42.297454, -71.88605;2025-02-17;-42.297454;-71.88605;Desconocido;Chubut;Desconocido;Argentina
-Departamento Vinchina;Desconocido, La Rioja, Desconocido, Argentina;-28.081348, -69.007057;2023-12-24;-28.081348;-69.007057;Desconocido;La Rioja;Desconocido;Argentina
-Chonchi;Chonchi, Region De Los Lagos, Desconocido, Chile;-42.749826, -74.000361;2023-01-11;-42.749826;-74.000361;Chonchi;Region De Los Lagos;Desconocido;Chile
-Huara;Huara, Region De Tarapaca, Desconocido, Chile;-19.814025, -69.992481;2025-06-11;-19.814025;-69.992481;Huara;Region De Tarapaca;Desconocido;Chile
-Timaukel;Timaukel, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-54.389222, -69.529171;2023-04-11;-54.389222;-69.529171;Timaukel;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Deseado;Desconocido, Santa Cruz, Desconocido, Argentina;-47.200951, -67.673809;2022-12-22;-47.200951;-67.673809;Desconocido;Santa Cruz;Desconocido;Argentina
-4P;Desconocido, Neuquen, Desconocido, Argentina;-39.3577, -68.942024;2023-01-14;-39.3577;-68.942024;Desconocido;Neuquen;Desconocido;Argentina
-Municipio De San Antonio De Los Cobres;Municipio De San Antonio De Los Cobres, Salta, Desconocido, Argentina;-25.126143, -66.953012;2025-01-25;-25.126143;-66.953012;Municipio De San Antonio De Los Cobres;Salta;Desconocido;Argentina
-Aysen;Aysen, Region Aysen Del General Carlos Ibanez Del Campo, Desconocido, Chile;-45.728372, -73.655344;2022-02-14;-45.728372;-73.655344;Aysen;Region Aysen Del General Carlos Ibanez Del Campo;Desconocido;Chile
-Lago Argentino;Desconocido, Santa Cruz, Desconocido, Argentina;-49.922977, -72.489278;2025-03-20;-49.922977;-72.489278;Desconocido;Santa Cruz;Desconocido;Argentina
-Constitucion, Provincia De Talca, Chile;Constitucion, Desconocido, Desconocido, Chile;-35.585609, -72.19339;2023-11-29;-35.585609;-72.19339;Constitucion;Desconocido;Desconocido;Chile
-Quellon;Quellon, Region De Los Lagos, Desconocido, Chile;-43.474521, -73.62373;2025-06-11;-43.474521;-73.62373;Quellon;Region De Los Lagos;Desconocido;Chile
-Jachal;Desconocido, San Juan, Desconocido, Argentina;-30.606307, -68.557758;2023-12-09;-30.606307;-68.557758;Desconocido;San Juan;Desconocido;Argentina
-Natales;Puerto Natales, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-51.146562, -74.828575;2023-03-01;-51.146562;-74.828575;Puerto Natales;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Corpen Aike;Desconocido, Santa Cruz, Desconocido, Argentina;-49.322235, -70.316984;2024-06-17;-49.322235;-70.316984;Desconocido;Santa Cruz;Desconocido;Argentina
-Municipio De Rio Pico;Desconocido, Chubut, Desconocido, Argentina;-44.042306, -71.650636;2022-11-11;-44.042306;-71.650636;Desconocido;Chubut;Desconocido;Argentina
-Iglesia;Desconocido, San Juan, Desconocido, Argentina;-28.931, -69.308146;2023-04-14;-28.931;-69.308146;Desconocido;San Juan;Desconocido;Argentina
-Departamento Catan Lil;Desconocido, Neuquen, Desconocido, Argentina;-39.68412, -70.644393;2025-05-30;-39.68412;-70.644393;Desconocido;Neuquen;Desconocido;Argentina
-Magallanes;Desconocido, Santa Cruz, Desconocido, Argentina;-48.445049, -68.690549;2023-07-14;-48.445049;-68.690549;Desconocido;Santa Cruz;Desconocido;Argentina
-Tocopilla;Tocopilla, Region De Antofagasta, Desconocido, Chile;-22.160853, -70.148372;2022-05-02;-22.160853;-70.148372;Tocopilla;Region De Antofagasta;Desconocido;Chile
-Departamento Rio Senguer;Desconocido, Chubut, Desconocido, Argentina;-45.937522, -71.151849;2023-08-05;-45.937522;-71.151849;Desconocido;Chubut;Desconocido;Argentina
-Provincia Ladislao Cabrera;Desconocido, Oruro, Desconocido, Bolivia;-19.116563, -68.025145;2022-11-27;-19.116563;-68.025145;Desconocido;Oruro;Desconocido;Bolivia
-Sierra Gorda;Sierra Gorda, Region De Antofagasta, Desconocido, Chile;-23.307163, -68.971009;2024-10-27;-23.307163;-68.971009;Sierra Gorda;Region De Antofagasta;Desconocido;Chile
-Departamento Atlantico;Desconocido, Chubut, Desconocido, Argentina;-45.888146, -67.490016;2025-03-27;-45.888146;-67.490016;Desconocido;Chubut;Desconocido;Argentina
-Municipio De San Antonio De Los Cobres;Municipio De San Antonio De Los Cobres, Salta, Desconocido, Argentina;-24.394023, -66.725876;2023-09-24;-24.394023;-66.725876;Municipio De San Antonio De Los Cobres;Salta;Desconocido;Argentina
-Distrito Pareditas;Distrito Pareditas, Mendoza, Desconocido, Argentina;-34.13874, -69.827922;2024-10-17;-34.13874;-69.827922;Distrito Pareditas;Mendoza;Desconocido;Argentina
-Departamento Nueve De Julio;Desconocido, Rio Negro, Desconocido, Argentina;-39.96364, -67.551726;2022-01-26;-39.96364;-67.551726;Desconocido;Rio Negro;Desconocido;Argentina
-Tierra Amarilla;Tierra Amarilla, Region De Atacama, Desconocido, Chile;-27.478366, -69.485389;2023-09-10;-27.478366;-69.485389;Tierra Amarilla;Region De Atacama;Desconocido;Chile
-Canton Cacoma;Tahua, Potosi, Desconocido, Bolivia;-20.082017, -67.945925;2023-01-30;-20.082017;-67.945925;Tahua;Potosi;Desconocido;Bolivia
-San Clemente;San Clemente, Region Del Maule, Desconocido, Chile;-35.677541, -70.993308;2023-05-07;-35.677541;-70.993308;San Clemente;Region Del Maule;Desconocido;Chile
-Taltal;Taltal, Region De Antofagasta, Desconocido, Chile;-24.651648, -69.955972;2022-10-28;-24.651648;-69.955972;Taltal;Region De Antofagasta;Desconocido;Chile
-Chile;Desconocido, Desconocido, Desconocido, Chile;-37.126916, -73.854759;2023-03-01;-37.126916;-73.854759;Desconocido;Desconocido;Desconocido;Chile
-Municipio De Cipolletti;Desconocido, Rio Negro, Desconocido, Argentina;-39.472594, -68.962776;2025-01-21;-39.472594;-68.962776;Desconocido;Rio Negro;Desconocido;Argentina
-Lago Argentino;Desconocido, Santa Cruz, Desconocido, Argentina;-49.462217, -71.945371;2024-04-13;-49.462217;-71.945371;Desconocido;Santa Cruz;Desconocido;Argentina
-Chile;Desconocido, Desconocido, Desconocido, Chile;-21.33733, -70.131955;2023-03-29;-21.33733;-70.131955;Desconocido;Desconocido;Desconocido;Chile
-Rio Bueno;Rio Bueno, Region De Los Rios, Desconocido, Chile;-40.582875, -72.788044;2023-02-17;-40.582875;-72.788044;Rio Bueno;Region De Los Rios;Desconocido;Chile
-Ruta D-165;La Serena, Region De Coquimbo, Desconocido, Chile;-29.662664, -71.165584;2022-02-04;-29.662664;-71.165584;La Serena;Region De Coquimbo;Desconocido;Chile
-Ruta Nacional 146;Desconocido, San Luis, Desconocido, Argentina;-32.609891, -66.269454;2024-02-18;-32.609891;-66.269454;Desconocido;San Luis;Desconocido;Argentina
-Camino Rn5 A Vinto K;Municipio Colcha K, Potosi, Desconocido, Bolivia;-20.739881, -66.939109;2023-06-04;-20.739881;-66.939109;Municipio Colcha K;Potosi;Desconocido;Bolivia
-Departamento Famatina;Desconocido, La Rioja, Desconocido, Argentina;-28.947023, -67.214412;2023-08-15;-28.947023;-67.214412;Desconocido;La Rioja;Desconocido;Argentina
-Pica;Pica, Region De Tarapaca, Desconocido, Chile;-20.535927, -69.440177;2023-02-19;-20.535927;-69.440177;Pica;Region De Tarapaca;Desconocido;Chile
-Lago Buenos Aires;Desconocido, Santa Cruz, Desconocido, Argentina;-46.967552, -70.757154;2025-03-06;-46.967552;-70.757154;Desconocido;Santa Cruz;Desconocido;Argentina
-Departamento El Cuy;Desconocido, Rio Negro, Desconocido, Argentina;-39.202797, -67.641815;2024-08-28;-39.202797;-67.641815;Desconocido;Rio Negro;Desconocido;Argentina
-Municipio De Santa Isabel;Municipio De Santa Isabel, La Pampa, Desconocido, Argentina;-36.223531, -66.080502;2022-02-14;-36.223531;-66.080502;Municipio De Santa Isabel;La Pampa;Desconocido;Argentina
-Buenos Aires;Desconocido, Santa Cruz, Desconocido, Argentina;-47.328912, -66.811707;2023-03-01;-47.328912;-66.811707;Desconocido;Santa Cruz;Desconocido;Argentina
-Putre;Putre, Region De Arica Y Parinacota, Desconocido, Chile;-18.480278, -69.383207;2024-01-28;-18.480278;-69.383207;Putre;Region De Arica Y Parinacota;Desconocido;Chile
-Gobernador Dupuy;Desconocido, San Luis, Desconocido, Argentina;-35.886569, -66.325691;2024-12-08;-35.886569;-66.325691;Desconocido;San Luis;Desconocido;Argentina
-Distrito Punta Del Agua;Distrito Punta Del Agua, Mendoza, Desconocido, Argentina;-35.373985, -67.93815;2023-03-14;-35.373985;-67.93815;Distrito Punta Del Agua;Mendoza;Desconocido;Argentina
-Deseado;Desconocido, Santa Cruz, Desconocido, Argentina;-48.028695, -67.758382;2024-10-04;-48.028695;-67.758382;Desconocido;Santa Cruz;Desconocido;Argentina
-Ruta M-880;Cauquenes, Desconocido, Desconocido, Chile;-36.092217, -72.46531;2025-06-20;-36.092217;-72.46531;Cauquenes;Desconocido;Desconocido;Chile
-Futrono;Futrono, Region De Los Rios, Desconocido, Chile;-40.069011, -71.86601;2022-09-10;-40.069011;-71.86601;Futrono;Region De Los Rios;Desconocido;Chile
-Pozo Almonte, Provincia Del Tamarugal, Region De Tarapaca, Chile;Pozo Almonte, Region De Tarapaca, Desconocido, Chile;-20.488789, -69.799155;2024-04-05;-20.488789;-69.799155;Pozo Almonte;Region De Tarapaca;Desconocido;Chile
-Departamento Antofagasta De La Sierra;Desconocido, Catamarca, Desconocido, Argentina;-25.346997, -67.371974;2024-06-30;-25.346997;-67.371974;Desconocido;Catamarca;Desconocido;Argentina
-Municipio De San Antonio De Los Cobres;Municipio De San Antonio De Los Cobres, Salta, Desconocido, Argentina;-24.298931, -66.687952;2022-07-12;-24.298931;-66.687952;Municipio De San Antonio De Los Cobres;Salta;Desconocido;Argentina
-Juan Martin De Pueyrredon;Desconocido, San Luis, Desconocido, Argentina;-34.228816, -66.206314;2022-07-18;-34.228816;-66.206314;Desconocido;San Luis;Desconocido;Argentina
-Corpen Aike;Desconocido, Santa Cruz, Desconocido, Argentina;-50.025922, -69.092458;2022-04-07;-50.025922;-69.092458;Desconocido;Santa Cruz;Desconocido;Argentina
-Los Compartos, Distrito Bowen, General Alvear, Mendoza, Argentina;Los Compartos, Mendoza, Desconocido, Argentina;-34.9147, -67.58569;2024-01-11;-34.9147;-67.58569;Los Compartos;Mendoza;Desconocido;Argentina
-Municipio De Alto Rio Senguer;Desconocido, Chubut, Desconocido, Argentina;-45.106456, -71.271685;2025-04-25;-45.106456;-71.271685;Desconocido;Chubut;Desconocido;Argentina
-Departamento Rio Senguer;Desconocido, Chubut, Desconocido, Argentina;-45.786682, -69.708503;2022-11-12;-45.786682;-69.708503;Desconocido;Chubut;Desconocido;Argentina
-Porvenir;Porvenir, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-53.499876, -70.111037;2023-08-15;-53.499876;-70.111037;Porvenir;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Chaiten;Chaiten, Region De Los Lagos, Desconocido, Chile;-42.810871, -72.376038;2022-01-15;-42.810871;-72.376038;Chaiten;Region De Los Lagos;Desconocido;Chile
-Departamento General Ocampo;Desconocido, La Rioja, Desconocido, Argentina;-31.067407, -66.034748;2025-04-04;-31.067407;-66.034748;Desconocido;La Rioja;Desconocido;Argentina
-Natales;Puerto Natales, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-48.871764, -73.726395;2022-06-26;-48.871764;-73.726395;Puerto Natales;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Guer Aike;Desconocido, Santa Cruz, Desconocido, Argentina;-51.4924, -71.910237;2023-07-15;-51.4924;-71.910237;Desconocido;Santa Cruz;Desconocido;Argentina
-Vicuna;Vicuna, Region De Coquimbo, Desconocido, Chile;-29.730437, -70.042114;2025-02-25;-29.730437;-70.042114;Vicuna;Region De Coquimbo;Desconocido;Chile
-Departamento Paso De Indios;Desconocido, Chubut, Desconocido, Argentina;-43.638876, -68.403922;2023-12-10;-43.638876;-68.403922;Desconocido;Chubut;Desconocido;Argentina
-Municipio De San Antonio De Los Cobres;Municipio De San Antonio De Los Cobres, Salta, Desconocido, Argentina;-24.83767, -67.271141;2022-11-18;-24.83767;-67.271141;Municipio De San Antonio De Los Cobres;Salta;Desconocido;Argentina
-Municipio De Gobernador Costa, Departamento Tehuelches, Chubut, Argentina;Desconocido, Chubut, Desconocido, Argentina;-44.446639, -70.805564;2023-10-16;-44.446639;-70.805564;Desconocido;Chubut;Desconocido;Argentina
-Punitaqui;Punitaqui, Region De Coquimbo, Desconocido, Chile;-31.069135, -71.369447;2023-10-12;-31.069135;-71.369447;Punitaqui;Region De Coquimbo;Desconocido;Chile
-Natales;Puerto Natales, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-49.129446, -73.377061;2022-11-11;-49.129446;-73.377061;Puerto Natales;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Departamento Martires;Desconocido, Chubut, Desconocido, Argentina;-43.525603, -67.63909;2022-01-16;-43.525603;-67.63909;Desconocido;Chubut;Desconocido;Argentina
-Rp77;Distrito Monte Coman, Mendoza, Desconocido, Argentina;-33.688986, -67.445571;2025-04-28;-33.688986;-67.445571;Distrito Monte Coman;Mendoza;Desconocido;Argentina
-Copiapo;Copiapo, Region De Atacama, Desconocido, Chile;-27.16277, -69.735947;2022-09-08;-27.16277;-69.735947;Copiapo;Region De Atacama;Desconocido;Chile
-Distrito Uspallata;Desconocido, Mendoza, Desconocido, Argentina;-32.506378, -69.481986;2022-07-20;-32.506378;-69.481986;Desconocido;Mendoza;Desconocido;Argentina
-Corpen Aike;Desconocido, Santa Cruz, Desconocido, Argentina;-50.014903, -68.072414;2023-10-27;-50.014903;-68.072414;Desconocido;Santa Cruz;Desconocido;Argentina
-Camino Las Quinientas;Gorbea, Region De La Araucania, Desconocido, Chile;-39.159473, -72.777328;2024-02-07;-39.159473;-72.777328;Gorbea;Region De La Araucania;Desconocido;Chile
-Peru;Desconocido, Desconocido, Desconocido, Peru;-18.304489, -70.969386;2025-06-05;-18.304489;-70.969386;Desconocido;Desconocido;Desconocido;Peru
-Guer Aike;Desconocido, Santa Cruz, Desconocido, Argentina;-50.806361, -69.41677;2022-01-01;-50.806361;-69.41677;Desconocido;Santa Cruz;Desconocido;Argentina
-Municipio De Rio Grande, Departamento Rio Grande, Tierra Del Fuego, 9420, Argentina;Municipio De Rio Grande, Tierra Del Fuego, Desconocido, Argentina;-53.994333, -67.70513;2022-06-28;-53.994333;-67.70513;Municipio De Rio Grande;Tierra Del Fuego;Desconocido;Argentina
-Municipio De San Antonio De Los Cobres;Municipio De San Antonio De Los Cobres, Salta, Desconocido, Argentina;-24.842184, -66.618622;2025-02-04;-24.842184;-66.618622;Municipio De San Antonio De Los Cobres;Salta;Desconocido;Argentina
-Longavi;Longavi, Region Del Maule, Desconocido, Chile;-36.16779, -71.258314;2024-06-17;-36.16779;-71.258314;Longavi;Region Del Maule;Desconocido;Chile
-Departamento Antofagasta De La Sierra;Desconocido, Catamarca, Desconocido, Argentina;-26.633157, -68.135024;2025-01-22;-26.633157;-68.135024;Desconocido;Catamarca;Desconocido;Argentina
-Municipio Colcha K;Municipio Colcha K, Potosi, Desconocido, Bolivia;-20.004271, -67.289777;2024-05-17;-20.004271;-67.289777;Municipio Colcha K;Potosi;Desconocido;Bolivia
-Lago Argentino;Desconocido, Santa Cruz, Desconocido, Argentina;-50.095772, -71.202991;2022-04-29;-50.095772;-71.202991;Desconocido;Santa Cruz;Desconocido;Argentina
-Municipio Colcha K;Municipio Colcha K, Potosi, Desconocido, Bolivia;-21.199355, -66.692403;2023-06-10;-21.199355;-66.692403;Municipio Colcha K;Potosi;Desconocido;Bolivia
-Maria Elena;Maria Elena, Region De Antofagasta, Desconocido, Chile;-21.803644, -69.09562;2024-05-07;-21.803644;-69.09562;Maria Elena;Region De Antofagasta;Desconocido;Chile
-Lago Verde;Lago Verde, Region Aysen Del General Carlos Ibanez Del Campo, Desconocido, Chile;-44.452637, -71.789548;2024-06-01;-44.452637;-71.789548;Lago Verde;Region Aysen Del General Carlos Ibanez Del Campo;Desconocido;Chile
-Comision De Fomento De Limay Mahuida;Desconocido, La Pampa, Desconocido, Argentina;-37.12546, -66.312296;2023-11-22;-37.12546;-66.312296;Desconocido;La Pampa;Desconocido;Argentina
-Natales;Puerto Natales, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-52.104984, -71.868387;2025-03-16;-52.104984;-71.868387;Puerto Natales;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-25 De Mayo;Desconocido, San Juan, Desconocido, Argentina;-32.022325, -67.46622;2023-08-30;-32.022325;-67.46622;Desconocido;San Juan;Desconocido;Argentina
-Timaukel;Timaukel, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-54.298983, -70.700672;2024-09-13;-54.298983;-70.700672;Timaukel;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Ruta V-69;Cochamo, Region De Los Lagos, Desconocido, Chile;-41.627898, -72.325744;2022-06-08;-41.627898;-72.325744;Cochamo;Region De Los Lagos;Desconocido;Chile
-Departamento Rio Senguer;Desconocido, Chubut, Desconocido, Argentina;-45.811429, -71.395513;2022-05-31;-45.811429;-71.395513;Desconocido;Chubut;Desconocido;Argentina
-Baggle;Desconocido, Chubut, Desconocido, Argentina;-43.168568, -71.653091;2023-02-01;-43.168568;-71.653091;Desconocido;Chubut;Desconocido;Argentina
-Calingasta;Desconocido, San Juan, Desconocido, Argentina;-31.813849, -69.508742;2025-02-10;-31.813849;-69.508742;Desconocido;San Juan;Desconocido;Argentina
-Lonquimay;Lonquimay, Region De La Araucania, Desconocido, Chile;-38.778239, -71.313618;2022-11-24;-38.778239;-71.313618;Lonquimay;Region De La Araucania;Desconocido;Chile
-Cabo De Hornos;Cabo De Hornos, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-55.367506, -66.803049;2025-02-15;-55.367506;-66.803049;Cabo De Hornos;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Deseado;Desconocido, Santa Cruz, Desconocido, Argentina;-46.715246, -67.704031;2022-12-31;-46.715246;-67.704031;Desconocido;Santa Cruz;Desconocido;Argentina
-Villa Dona Clara, Talca, Provincia De Talca, 3460000, Chile;Talca, Desconocido, Desconocido, Chile;-35.441963, -71.700278;2022-07-14;-35.441963;-71.700278;Talca;Desconocido;Desconocido;Chile
-Natales;Puerto Natales, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-51.737839, -73.125789;2023-06-04;-51.737839;-73.125789;Puerto Natales;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Cinco Sur;Los Vilos, Region De Coquimbo, Desconocido, Chile;-32.148437, -71.519863;2025-05-23;-32.148437;-71.519863;Los Vilos;Region De Coquimbo;Desconocido;Chile
-Sierra Gorda;Sierra Gorda, Region De Antofagasta, Desconocido, Chile;-23.322129, -69.157765;2023-06-07;-23.322129;-69.157765;Sierra Gorda;Region De Antofagasta;Desconocido;Chile
-Cisnes;Cisnes, Region Aysen Del General Carlos Ibanez Del Campo, Desconocido, Chile;-44.380095, -74.443966;2024-06-30;-44.380095;-74.443966;Cisnes;Region Aysen Del General Carlos Ibanez Del Campo;Desconocido;Chile
-Linea Balmaceda;Puerto Varas, Region De Los Lagos, Desconocido, Chile;-41.314223, -73.209841;2024-08-22;-41.314223;-73.209841;Puerto Varas;Region De Los Lagos;Desconocido;Chile
-Departamento Los Lagos;Desconocido, Neuquen, Desconocido, Argentina;-40.521832, -71.598705;2024-02-14;-40.521832;-71.598705;Desconocido;Neuquen;Desconocido;Argentina
-Deseado;Desconocido, Santa Cruz, Desconocido, Argentina;-47.195178, -68.82322;2024-03-02;-47.195178;-68.82322;Desconocido;Santa Cruz;Desconocido;Argentina
-Distrito Rio Grande;Desconocido, Mendoza, Desconocido, Argentina;-35.631062, -70.276897;2023-05-16;-35.631062;-70.276897;Desconocido;Mendoza;Desconocido;Argentina
-Departamento Tolhuin;Desconocido, Tierra Del Fuego, Desconocido, Argentina;-54.325632, -68.391438;2022-12-02;-54.325632;-68.391438;Desconocido;Tierra Del Fuego;Desconocido;Argentina
-Departamento Gastre;Desconocido, Chubut, Desconocido, Argentina;-43.223256, -67.948935;2023-05-05;-43.223256;-67.948935;Desconocido;Chubut;Desconocido;Argentina
-Porvenir;Porvenir, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-53.00369, -70.497769;2023-08-12;-53.00369;-70.497769;Porvenir;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Iglesia;Desconocido, San Juan, Desconocido, Argentina;-30.483558, -69.060446;2025-05-23;-30.483558;-69.060446;Desconocido;San Juan;Desconocido;Argentina
-Lago Argentino;Desconocido, Santa Cruz, Desconocido, Argentina;-49.947589, -72.555439;2024-04-06;-49.947589;-72.555439;Desconocido;Santa Cruz;Desconocido;Argentina
-Departamento Sarmiento;Desconocido, Chubut, Desconocido, Argentina;-45.004535, -68.97463;2022-06-19;-45.004535;-68.97463;Desconocido;Chubut;Desconocido;Argentina
-Ruta N-62;Chillan, Region De Nuble, Desconocido, Chile;-36.607824, -72.282506;2025-04-22;-36.607824;-72.282506;Chillan;Region De Nuble;Desconocido;Chile
-Argentina;Desconocido, Desconocido, Desconocido, Argentina;-53.954603, -67.01624;2024-07-17;-53.954603;-67.01624;Desconocido;Desconocido;Desconocido;Argentina
-Timaukel;Timaukel, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-53.968789, -69.584112;2022-02-24;-53.968789;-69.584112;Timaukel;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Camarones;Camarones, Region De Arica Y Parinacota, Desconocido, Chile;-19.014468, -70.231713;2024-02-05;-19.014468;-70.231713;Camarones;Region De Arica Y Parinacota;Desconocido;Chile
-Quellon;Quellon, Region De Los Lagos, Desconocido, Chile;-43.303949, -74.216876;2022-01-11;-43.303949;-74.216876;Quellon;Region De Los Lagos;Desconocido;Chile
-Marchigue, Provincia De Cardenal Caro, Chile;Marchigue, Desconocido, Desconocido, Chile;-34.313937, -71.686241;2024-05-26;-34.313937;-71.686241;Marchigue;Desconocido;Desconocido;Chile
-Punta Arenas;Punta Arenas, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-52.764434, -70.772364;2023-10-27;-52.764434;-70.772364;Punta Arenas;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Zonda;Desconocido, San Juan, Desconocido, Argentina;-31.895267, -68.770367;2022-07-17;-31.895267;-68.770367;Desconocido;San Juan;Desconocido;Argentina
-Del Medio;Municipio De Andalgala, Catamarca, Desconocido, Argentina;-27.575216, -66.697534;2022-12-15;-27.575216;-66.697534;Municipio De Andalgala;Catamarca;Desconocido;Argentina
-Municipio Colcha K, Provincia Nor Lipez, Potosi, Bolivia;Municipio Colcha K, Potosi, Desconocido, Bolivia;-21.16254, -67.056736;2023-06-22;-21.16254;-67.056736;Municipio Colcha K;Potosi;Desconocido;Bolivia
-Departamento Nueve De Julio;Desconocido, Rio Negro, Desconocido, Argentina;-40.284179, -67.519226;2023-10-26;-40.284179;-67.519226;Desconocido;Rio Negro;Desconocido;Argentina
-Municipio De Andalgala;Municipio De Andalgala, Catamarca, Desconocido, Argentina;-27.530887, -66.168559;2023-08-30;-27.530887;-66.168559;Municipio De Andalgala;Catamarca;Desconocido;Argentina
-Departamento Rio Senguer;Desconocido, Chubut, Desconocido, Argentina;-45.402105, -71.329566;2022-02-24;-45.402105;-71.329566;Desconocido;Chubut;Desconocido;Argentina
-Taltal;Taltal, Region De Antofagasta, Desconocido, Chile;-25.172271, -69.334334;2025-04-04;-25.172271;-69.334334;Taltal;Region De Antofagasta;Desconocido;Chile
-Peru;Desconocido, Desconocido, Desconocido, Peru;-17.775458, -74.296478;2023-07-14;-17.775458;-74.296478;Desconocido;Desconocido;Desconocido;Peru
-Comision De Fomento De Algarrobo Del Aguila;Desconocido, La Pampa, Desconocido, Argentina;-36.680175, -67.188989;2022-06-14;-36.680175;-67.188989;Desconocido;La Pampa;Desconocido;Argentina
-La Rivera;Desconocido, Santa Cruz, Desconocido, Argentina;-47.299783, -66.944026;2022-08-12;-47.299783;-66.944026;Desconocido;Santa Cruz;Desconocido;Argentina
-Departamento Antofagasta De La Sierra;Desconocido, Catamarca, Desconocido, Argentina;-26.688873, -67.49805;2022-11-16;-26.688873;-67.49805;Desconocido;Catamarca;Desconocido;Argentina
-Natales;Puerto Natales, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-48.959534, -74.478113;2024-02-29;-48.959534;-74.478113;Puerto Natales;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Tortel;Tortel, Region Aysen Del General Carlos Ibanez Del Campo, Desconocido, Chile;-47.65073, -73.514586;2023-11-29;-47.65073;-73.514586;Tortel;Region Aysen Del General Carlos Ibanez Del Campo;Desconocido;Chile
-Municipio De Fiambala;Municipio De Fiambala, Catamarca, Desconocido, Argentina;-27.597613, -68.253546;2024-08-23;-27.597613;-68.253546;Municipio De Fiambala;Catamarca;Desconocido;Argentina
-Municipio De Tolar Grande;Municipio De Tolar Grande, Salta, Desconocido, Argentina;-24.725456, -68.364497;2023-08-28;-24.725456;-68.364497;Municipio De Tolar Grande;Salta;Desconocido;Argentina
-Cabo De Hornos;Cabo De Hornos, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-54.690485, -71.854787;2022-05-01;-54.690485;-71.854787;Cabo De Hornos;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Cabo De Hornos;Cabo De Hornos, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-54.966332, -68.462818;2023-01-24;-54.966332;-68.462818;Cabo De Hornos;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Distrito Punta Del Agua;Distrito Punta Del Agua, Mendoza, Desconocido, Argentina;-35.575675, -68.4181;2024-09-16;-35.575675;-68.4181;Distrito Punta Del Agua;Mendoza;Desconocido;Argentina
-Quilpue;Quilpue, Region De Valparaiso, Desconocido, Chile;-33.184522, -71.351036;2023-12-28;-33.184522;-71.351036;Quilpue;Region De Valparaiso;Desconocido;Chile
-Departamento Futaleufu;Desconocido, Chubut, Desconocido, Argentina;-43.43748, -71.204117;2022-10-23;-43.43748;-71.204117;Desconocido;Chubut;Desconocido;Argentina
-Deseado;Desconocido, Santa Cruz, Desconocido, Argentina;-46.482334, -68.583606;2022-10-13;-46.482334;-68.583606;Desconocido;Santa Cruz;Desconocido;Argentina
-Municipio De Santa Isabel;Municipio De Santa Isabel, La Pampa, Desconocido, Argentina;-36.319748, -66.825341;2022-10-08;-36.319748;-66.825341;Municipio De Santa Isabel;La Pampa;Desconocido;Argentina
-Municipio De San Antonio De Los Cobres;Municipio De San Antonio De Los Cobres, Salta, Desconocido, Argentina;-24.289088, -67.060605;2023-09-18;-24.289088;-67.060605;Municipio De San Antonio De Los Cobres;Salta;Desconocido;Argentina
-Chile;Desconocido, Desconocido, Desconocido, Chile;-22.656673, -70.339966;2024-05-25;-22.656673;-70.339966;Desconocido;Desconocido;Desconocido;Chile
-San Clemente;San Clemente, Region Del Maule, Desconocido, Chile;-35.802588, -70.672608;2025-01-30;-35.802588;-70.672608;San Clemente;Region Del Maule;Desconocido;Chile
-Coronel Felipe Varela;Desconocido, La Rioja, Desconocido, Argentina;-29.573965, -67.955424;2024-12-16;-29.573965;-67.955424;Desconocido;La Rioja;Desconocido;Argentina
-Departamento Vinchina;Desconocido, La Rioja, Desconocido, Argentina;-28.870314, -68.096296;2023-02-11;-28.870314;-68.096296;Desconocido;La Rioja;Desconocido;Argentina
-Ruta Nacional 40;Desconocido, Santa Cruz, Desconocido, Argentina;-50.292228, -71.871935;2023-09-20;-50.292228;-71.871935;Desconocido;Santa Cruz;Desconocido;Argentina
-Comision De Fomento De Aguada San Roque;Desconocido, Neuquen, Desconocido, Argentina;-37.858507, -68.921579;2022-10-14;-37.858507;-68.921579;Desconocido;Neuquen;Desconocido;Argentina
-Distrito Jocoli;Desconocido, Mendoza, Desconocido, Argentina;-32.515255, -68.628577;2024-12-08;-32.515255;-68.628577;Desconocido;Mendoza;Desconocido;Argentina
-Puente Sonia, Puerto Toro, Cabo De Hornos, Provincia De La Antartica Chilena, Region De Magallanes Y De La Antartica Chilena, Chile;Cabo De Hornos, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-55.085523, -67.077409;2024-08-07;-55.085523;-67.077409;Cabo De Hornos;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Puerto Varas;Puerto Varas, Region De Los Lagos, Desconocido, Chile;-41.211301, -72.280452;2024-10-08;-41.211301;-72.280452;Puerto Varas;Region De Los Lagos;Desconocido;Chile
-Peru;Desconocido, Desconocido, Desconocido, Peru;-18.301328, -71.263331;2024-10-22;-18.301328;-71.263331;Desconocido;Desconocido;Desconocido;Peru
-Departamento Alumine;Desconocido, Neuquen, Desconocido, Argentina;-39.498889, -71.133635;2022-09-30;-39.498889;-71.133635;Desconocido;Neuquen;Desconocido;Argentina
-Rio Tinto;Petorca, Region De Valparaiso, Desconocido, Chile;-32.282237, -70.866447;2025-05-06;-32.282237;-70.866447;Petorca;Region De Valparaiso;Desconocido;Chile
-Municipio De San Antonio De Los Cobres;Municipio De San Antonio De Los Cobres, Salta, Desconocido, Argentina;-25.157572, -67.278589;2022-03-08;-25.157572;-67.278589;Municipio De San Antonio De Los Cobres;Salta;Desconocido;Argentina
-Ruta L-375;Colbun, Desconocido, Desconocido, Chile;-35.780565, -71.376101;2025-06-05;-35.780565;-71.376101;Colbun;Desconocido;Desconocido;Chile
-Municipio De 25 De Mayo;Municipio De 25 De Mayo, La Pampa, Desconocido, Argentina;-37.962852, -67.496474;2023-07-25;-37.962852;-67.496474;Municipio De 25 De Mayo;La Pampa;Desconocido;Argentina
-Ruta C-447;Tierra Amarilla, Region De Atacama, Desconocido, Chile;-28.050181, -70.022053;2023-10-03;-28.050181;-70.022053;Tierra Amarilla;Region De Atacama;Desconocido;Chile
-Punta Arenas;Punta Arenas, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-54.295463, -71.113203;2022-08-22;-54.295463;-71.113203;Punta Arenas;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-San Gregorio;San Gregorio, Region De Magallanes Y De La Antartica Chilena, Desconocido, Chile;-52.514989, -69.981822;2023-08-14;-52.514989;-69.981822;San Gregorio;Region De Magallanes Y De La Antartica Chilena;Desconocido;Chile
-Chanco;Quellon, Region De Los Lagos, Desconocido, Chile;-42.906374, -73.656386;2022-06-17;-42.906374;-73.656386;Quellon;Region De Los Lagos;Desconocido;Chile
-Distrito Punta Del Agua;Distrito Punta Del Agua, Mendoza, Desconocido, Argentina;-35.490291, -68.39018;2023-11-17;-35.490291;-68.39018;Distrito Punta Del Agua;Mendoza;Desconocido;Argentina
-El Tamarisco;Desconocido, Santa Cruz, Desconocido, Argentina;-47.25971, -68.175788;2025-01-14;-47.25971;-68.175788;Desconocido;Santa Cruz;Desconocido;Argentina
-Peru;Desconocido, Desconocido, Desconocido, Peru;-18.318231, -71.67395;2022-03-16;-18.318231;-71.67395;Desconocido;Desconocido;Desconocido;Peru
-Guer Aike;Desconocido, Santa Cruz, Desconocido, Argentina;-52.156149, -68.957397;2022-08-10;-52.156149;-68.957397;Desconocido;Santa Cruz;Desconocido;Argentina
-Iglesia;Desconocido, San Juan, Desconocido, Argentina;-29.681844, -69.602349;2023-03-20;-29.681844;-69.602349;Desconocido;San Juan;Desconocido;Argentina
-Distrito San Pedro Del Atuel;Distrito San Pedro Del Atuel, Mendoza, Desconocido, Argentina;-35.899085, -66.939271;2022-09-28;-35.899085;-66.939271;Distrito San Pedro Del Atuel;Mendoza;Desconocido;Argentina
-Municipio De San Antonio De Los Cobres;Municipio De San Antonio De Los Cobres, Salta, Desconocido, Argentina;-24.649783, -66.466343;2024-12-16;-24.649783;-66.466343;Municipio De San Antonio De Los Cobres;Salta;Desconocido;Argentina
-Departamento Veinticinco De Mayo;Desconocido, Rio Negro, Desconocido, Argentina;-41.426004, -68.579091;2023-06-14;-41.426004;-68.579091;Desconocido;Rio Negro;Desconocido;Argentina
-Peru;Desconocido, Desconocido, Desconocido, Peru;-18.537121, -74.116061;2024-02-15;-18.537121;-74.116061;Desconocido;Desconocido;Desconocido;Peru
-Chile;Desconocido, Desconocido, Desconocido, Chile;-55.985055, -66.721345;2023-01-27;-55.985055;-66.721345;Desconocido;Desconocido;Desconocido;Chile
+Googleplex;1600 Amphitheatre Parkway, Mountain View, Ca 94043, Usa;37.422, -122.084;2025-06-25 15:21:50.745362+00:00;37.422;-122.084;1600 Amphitheatre Parkway;Mountain View;Ca 94043;Usa
+Apple Park;1 Apple Park Way, Cupertino, Ca 95014, Usa;37.3328, -122.0059;2025-06-25 15:21:50.745362+00:00;37.3328;-122.0059;1 Apple Park Way;Cupertino;Ca 95014;Usa
+The White House;1600 Pennsylvania Ave Nw, Washington, Dc 20500, Usa;38.8977, -77.0365;2025-06-25 15:21:50.745362+00:00;38.8977;-77.0365;1600 Pennsylvania Ave Nw;Washington;Dc 20500;Usa
+10 Downing Street;10 Downing St, Westminster, London Sw1A 2Aa, Uk;51.5034, -0.1276;2025-06-25 15:21:50.745362+00:00;51.5034;-0.1276;10 Downing St;Westminster;London Sw1A 2Aa;Uk
+Eiffel Tower;Champ De Mars, 5 Avenue Anatole France, 75007 Paris, France;48.8584, 2.2945;2025-06-25 15:21:50.745362+00:00;48.8584;2.2945;Champ De Mars;5 Avenue Anatole France;75007 Paris;France
+Apple Park;1 Infinite Loop, Cupertino, Ca 95014, Usa;37.3317, -122.0307;2025-06-25 15:21:50.745362+00:00;37.3317;-122.0307;1 Infinite Loop;Cupertino;Ca 95014;Usa
+Buckingham Palace;Westminster, London Sw1A 1Aa, Uk;51.5014, -0.1419;2025-06-25 15:21:50.745362+00:00;51.5014;-0.1419;Desconocido;Westminster;London Sw1A 1Aa;Uk
+Statue Of Liberty;Liberty Island, New York, Ny 10004, Usa;40.6892, -74.0445;2025-06-25 15:21:50.745362+00:00;40.6892;-74.0445;Liberty Island;New York;Ny 10004;Usa
+Vatican City;Vatican;41.9029, 12.4534;2025-06-25 15:21:50.745362+00:00;41.9029;12.4534;Desconocido;Desconocido;Desconocido;Vatican
+Shibuya Crossing;2 Chome-2-1 Dogenzaka, Shibuya City, Tokyo 150-0043, Japan;35.6591, 139.7005;2025-06-25 15:21:50.745362+00:00;35.6591;139.7005;2 Chome-2-1 Dogenzaka;Shibuya City;Tokyo 150-0043;Japan
+221B Baker Street;221B Baker St, Marylebone, London Nw1 6Xe, Uk;51.5238, -0.1588;2025-06-25 15:21:50.745362+00:00;51.5238;-0.1588;221B Baker St;Marylebone;London Nw1 6Xe;Uk
+Great Wall Of China;Beijing, China;40.4319, 116.5704;2025-06-25 15:21:50.745362+00:00;40.4319;116.5704;Desconocido;Desconocido;Beijing;China
+Sydney Opera House;Sydney Nsw 2000, Australia;-33.8568, 151.2153;2025-06-25 15:21:50.745362+00:00;-33.8568;151.2153;Desconocido;Desconocido;Sydney Nsw 2000;Australia
+Cn Tower;301 Front St W, Toronto, On M5V 2T6, Canada;43.6426, -79.3871;2025-06-25 15:21:50.745362+00:00;43.6426;-79.3871;301 Front St W;Toronto;On M5V 2T6;Canada
+Burj Khalifa;1 Sheikh Mohammed Bin Rashid Blvd, Dubai, Uae;25.1972, 55.2744;2025-06-25 15:21:50.745362+00:00;25.1972;55.2744;Desconocido;1 Sheikh Mohammed Bin Rashid Blvd;Dubai;Uae
+Christ The Redeemer;Rio De Janeiro - Rj, Brazil;-22.9519, -43.2106;2025-06-25 15:21:50.745362+00:00;-22.9519;-43.2106;Desconocido;Desconocido;Rio De Janeiro - Rj;Brazil
+Colosseum;Piazza Del Colosseo, 1, 00184 Roma Rm, Italy;41.8902, 12.4922;2025-06-25 15:21:50.745362+00:00;41.8902;12.4922;Piazza Del Colosseo;1;00184 Roma Rm;Italy
+Taj Mahal;Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India;27.1751, 78.0421;2025-06-25 15:21:50.745362+00:00;27.1751;78.0421;Tajganj;Agra;Uttar Pradesh 282001;India
+Grand Canyon National Park;Arizona, Usa;36.107, -112.113;2025-06-25 15:21:50.745362+00:00;36.107;-112.113;Desconocido;Desconocido;Arizona;Usa
+Leaning Tower Of Pisa;Piazza Del Duomo, 56126 Pisa Pi, Italy;43.7229, 10.3966;2025-06-25 15:21:50.745362+00:00;43.7229;10.3966;Desconocido;Piazza Del Duomo;56126 Pisa Pi;Italy
+Acropolis Of Athens;Athens 105 58, Greece;37.9715, 23.7266;2025-06-25 15:21:50.745362+00:00;37.9715;23.7266;Desconocido;Desconocido;Athens 105 58;Greece
+Machu Picchu;Aguas Calientes 08680, Peru;-13.1631, -72.5450;2025-06-25 15:21:50.745362+00:00;-13.1631;-72.545;Desconocido;Desconocido;Aguas Calientes 08680;Peru
+Hollywood Walk Of Fame;Hollywood, Los Angeles, Ca 90028, Usa;34.1016, -118.3414;2025-06-25 15:21:50.745362+00:00;34.1016;-118.3414;Hollywood;Los Angeles;Ca 90028;Usa
+Niagara Falls;Niagara Falls, Ny, Usa;43.0812, -79.0663;2025-06-25 15:21:50.745362+00:00;43.0812;-79.0663;Desconocido;Niagara Falls;Ny;Usa
+Mount Everest;Everest Base Camp, Nepal;27.9881, 86.9250;2025-06-25 15:21:50.745362+00:00;27.9881;86.925;Desconocido;Desconocido;Everest Base Camp;Nepal
+Petra;Wadi Musa, Jordan;30.3285, 35.4444;2025-06-25 15:21:50.745362+00:00;30.3285;35.4444;Desconocido;Desconocido;Wadi Musa;Jordan
+Machu Picchu;Machu Picchu 08680, Peru;-13.1631, -72.5450;2025-06-25 15:21:50.745362+00:00;-13.1631;-72.545;Desconocido;Desconocido;Machu Picchu 08680;Peru
+Golden Gate Bridge;Golden Gate Bridge, San Francisco, Ca, Usa;37.8199, -122.4783;2025-06-25 15:21:50.745362+00:00;37.8199;-122.4783;Golden Gate Bridge;San Francisco;Ca;Usa
+Times Square;Manhattan, Ny 10036, Usa;40.7580, -73.9855;2025-06-25 15:21:50.745362+00:00;40.758;-73.9855;Desconocido;Manhattan;Ny 10036;Usa
+Amazon Rainforest;Amazon Rainforest, South America;-3.4653, -62.2159;2025-06-25 15:21:50.745362+00:00;-3.4653;-62.2159;Desconocido;Desconocido;Amazon Rainforest;South America
+Mount Rushmore;Keystone, Sd 57751, Usa;43.8791, -103.4591;2025-06-25 15:21:50.745362+00:00;43.8791;-103.4591;Desconocido;Keystone;Sd 57751;Usa
+Red Square;Moscow, Russia;55.7539, 37.6208;2025-06-25 15:21:50.745362+00:00;55.7539;37.6208;Desconocido;Desconocido;Moscow;Russia
+Edinburgh Castle;Castlehill, Edinburgh Eh1 2Ng, Uk;55.9486, -3.1999;2025-06-25 15:21:50.745362+00:00;55.9486;-3.1999;Desconocido;Castlehill;Edinburgh Eh1 2Ng;Uk
+Sydney Harbour Bridge;Sydney Nsw, Australia;-33.8523, 151.2108;2025-06-25 15:21:50.745362+00:00;-33.8523;151.2108;Desconocido;Desconocido;Sydney Nsw;Australia
+Big Ben;Westminster, London Sw1A 0Aa, Uk;51.5007, -0.1246;2025-06-25 15:21:50.745362+00:00;51.5007;-0.1246;Desconocido;Westminster;London Sw1A 0Aa;Uk
+Pyramids Of Giza;Al Haram, Nazlet El-Semman, Al Haram, Giza Governorate, Egypt;29.9792, 31.1342;2025-06-25 15:21:50.745362+00:00;29.9792;31.1342;Nazlet El-Semman;Al Haram;Giza Governorate;Egypt
+Yellowstone National Park;Yellowstone National Park, Wy 82190, Usa;44.4279, -110.5885;2025-06-25 15:21:50.745362+00:00;44.4279;-110.5885;Desconocido;Yellowstone National Park;Wy 82190;Usa
+Hollywood Sign;Los Angeles, Ca 90068, Usa;34.1341, -118.3215;2025-06-25 15:21:50.745362+00:00;34.1341;-118.3215;Desconocido;Los Angeles;Ca 90068;Usa
+Louvre Museum;Rue De Rivoli, 75001 Paris, France;48.8606, 2.3376;2025-06-25 15:21:50.745362+00:00;48.8606;2.3376;Desconocido;Rue De Rivoli;75001 Paris;France
+Mount Fuji;Kitayama, Fujinomiya, Shizuoka 418-0112, Japan;35.3606, 138.7274;2025-06-25 15:21:50.745362+00:00;35.3606;138.7274;Kitayama;Fujinomiya;Shizuoka 418-0112;Japan
+Kremlin;Moscow, Russia;55.7517, 37.6178;2025-06-25 15:21:50.745362+00:00;55.7517;37.6178;Desconocido;Desconocido;Moscow;Russia

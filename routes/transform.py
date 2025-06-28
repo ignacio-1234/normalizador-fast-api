@@ -1,4 +1,5 @@
 import os
+import time
 from database import engine  # Importa el engine global
 from sqlmodel import create_engine
 from fastapi.responses import JSONResponse
@@ -73,6 +74,24 @@ async def transform(file:UploadFile = File(...),session: Session = Depends(get_s
   # 1. Leer archivo
     content = await file.read()
     df = pd.read_csv(BytesIO(content), encoding='utf-8', sep=";", on_bad_lines='skip')
+
+   # Si solo hay una columna, asúmela como "Nombre del lugar"
+    if len(df.columns) == 1:
+        col = df.columns[0]
+        df = df.rename(columns={col: "nombre"})
+        df["direccion"] = "Desconocido"
+        df["georeferencia"] = "0.0,0.0"
+        df["fecha_registro"] = pd.Timestamp.utcnow()
+    else:
+        columnas_requeridas = {"Nombre del lugar", "Dirección Completa", "Georeferencia"}
+        columnas_archivo = set(df.columns)
+        if not columnas_requeridas.issubset(columnas_archivo):
+            faltantes = columnas_requeridas - columnas_archivo
+            return {"error": f"Faltan columnas requeridas: {', '.join(faltantes)}"}
+
+        if df.empty:
+            return {"error": "El archivo está vacío o no contiene datos válidos."}
+
 # Verificar si el DataFrame está vacío
     
     if df.empty:
@@ -81,13 +100,35 @@ async def transform(file:UploadFile = File(...),session: Session = Depends(get_s
     # 2. Eliminar duplicados exactos
     df.drop_duplicates(inplace=True)
 
-    # 3. Renombrar columnas esperadas
-    df = df.rename(columns={
+#validadcion extra 
+    esperadas = {
         "Nombre del lugar": "nombre",
         "Dirección Completa": "direccion",
         "Georeferencia": "georeferencia",
         "Fecha de registro": "fecha_registro"
-    })
+    }
+
+    df = df.rename(columns=esperadas)
+    df = df.loc[:, ~df.columns.duplicated()]
+    # Renombrar columnas esperadas
+    df = df.rename(columns=esperadas)
+    # Eliminar columnas duplicadas (¡clave para evitar el error!)
+    df = df.loc[:, ~df.columns.duplicated()]    
+
+# Agregar columnas faltantes con valor por defecto
+    for col in esperadas.values():
+        if col not in df.columns:
+            if col == "fecha_registro":
+                df[col] = pd.Timestamp.utcnow()
+            else:
+                df[col] = "Desconocido"
+    # Eliminar columnas duplicadas de nuevo por seguridad
+    df = df.loc[:, ~df.columns.duplicated()]
+
+       
+  
+    
+
 
       #verifica caracteres raros
     df["nombre"] = df["nombre"].apply(normalizar_texto)
@@ -141,7 +182,7 @@ async def eliminar_bd():
     archivo_bd = "base.db"
     engine.dispose()  # Cierra todas las conexiones del engine global
 
-    import time
+    
     time.sleep(1.0)  # Espera breve para asegurar cierre en Windows
 
     if os.path.exists(archivo_bd):
