@@ -1,42 +1,506 @@
 nombre;direccion;georeferencia;fecha_registro;latitud;longitud;ciudad;estado;provincia;pais
-Googleplex;1600 Amphitheatre Parkway, Mountain View, Ca 94043, Usa;37.422, -122.084;2025-06-25 15:21:50.745362+00:00;37.422;-122.084;1600 Amphitheatre Parkway;Mountain View;Ca 94043;Usa
-Apple Park;1 Apple Park Way, Cupertino, Ca 95014, Usa;37.3328, -122.0059;2025-06-25 15:21:50.745362+00:00;37.3328;-122.0059;1 Apple Park Way;Cupertino;Ca 95014;Usa
-The White House;1600 Pennsylvania Ave Nw, Washington, Dc 20500, Usa;38.8977, -77.0365;2025-06-25 15:21:50.745362+00:00;38.8977;-77.0365;1600 Pennsylvania Ave Nw;Washington;Dc 20500;Usa
-10 Downing Street;10 Downing St, Westminster, London Sw1A 2Aa, Uk;51.5034, -0.1276;2025-06-25 15:21:50.745362+00:00;51.5034;-0.1276;10 Downing St;Westminster;London Sw1A 2Aa;Uk
-Eiffel Tower;Champ De Mars, 5 Avenue Anatole France, 75007 Paris, France;48.8584, 2.2945;2025-06-25 15:21:50.745362+00:00;48.8584;2.2945;Champ De Mars;5 Avenue Anatole France;75007 Paris;France
-Apple Park;1 Infinite Loop, Cupertino, Ca 95014, Usa;37.3317, -122.0307;2025-06-25 15:21:50.745362+00:00;37.3317;-122.0307;1 Infinite Loop;Cupertino;Ca 95014;Usa
-Buckingham Palace;Westminster, London Sw1A 1Aa, Uk;51.5014, -0.1419;2025-06-25 15:21:50.745362+00:00;51.5014;-0.1419;Desconocido;Westminster;London Sw1A 1Aa;Uk
-Statue Of Liberty;Liberty Island, New York, Ny 10004, Usa;40.6892, -74.0445;2025-06-25 15:21:50.745362+00:00;40.6892;-74.0445;Liberty Island;New York;Ny 10004;Usa
-Vatican City;Vatican;41.9029, 12.4534;2025-06-25 15:21:50.745362+00:00;41.9029;12.4534;Desconocido;Desconocido;Desconocido;Vatican
-Shibuya Crossing;2 Chome-2-1 Dogenzaka, Shibuya City, Tokyo 150-0043, Japan;35.6591, 139.7005;2025-06-25 15:21:50.745362+00:00;35.6591;139.7005;2 Chome-2-1 Dogenzaka;Shibuya City;Tokyo 150-0043;Japan
-221B Baker Street;221B Baker St, Marylebone, London Nw1 6Xe, Uk;51.5238, -0.1588;2025-06-25 15:21:50.745362+00:00;51.5238;-0.1588;221B Baker St;Marylebone;London Nw1 6Xe;Uk
-Great Wall Of China;Beijing, China;40.4319, 116.5704;2025-06-25 15:21:50.745362+00:00;40.4319;116.5704;Desconocido;Desconocido;Beijing;China
-Sydney Opera House;Sydney Nsw 2000, Australia;-33.8568, 151.2153;2025-06-25 15:21:50.745362+00:00;-33.8568;151.2153;Desconocido;Desconocido;Sydney Nsw 2000;Australia
-Cn Tower;301 Front St W, Toronto, On M5V 2T6, Canada;43.6426, -79.3871;2025-06-25 15:21:50.745362+00:00;43.6426;-79.3871;301 Front St W;Toronto;On M5V 2T6;Canada
-Burj Khalifa;1 Sheikh Mohammed Bin Rashid Blvd, Dubai, Uae;25.1972, 55.2744;2025-06-25 15:21:50.745362+00:00;25.1972;55.2744;Desconocido;1 Sheikh Mohammed Bin Rashid Blvd;Dubai;Uae
-Christ The Redeemer;Rio De Janeiro - Rj, Brazil;-22.9519, -43.2106;2025-06-25 15:21:50.745362+00:00;-22.9519;-43.2106;Desconocido;Desconocido;Rio De Janeiro - Rj;Brazil
-Colosseum;Piazza Del Colosseo, 1, 00184 Roma Rm, Italy;41.8902, 12.4922;2025-06-25 15:21:50.745362+00:00;41.8902;12.4922;Piazza Del Colosseo;1;00184 Roma Rm;Italy
-Taj Mahal;Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India;27.1751, 78.0421;2025-06-25 15:21:50.745362+00:00;27.1751;78.0421;Tajganj;Agra;Uttar Pradesh 282001;India
-Grand Canyon National Park;Arizona, Usa;36.107, -112.113;2025-06-25 15:21:50.745362+00:00;36.107;-112.113;Desconocido;Desconocido;Arizona;Usa
-Leaning Tower Of Pisa;Piazza Del Duomo, 56126 Pisa Pi, Italy;43.7229, 10.3966;2025-06-25 15:21:50.745362+00:00;43.7229;10.3966;Desconocido;Piazza Del Duomo;56126 Pisa Pi;Italy
-Acropolis Of Athens;Athens 105 58, Greece;37.9715, 23.7266;2025-06-25 15:21:50.745362+00:00;37.9715;23.7266;Desconocido;Desconocido;Athens 105 58;Greece
-Machu Picchu;Aguas Calientes 08680, Peru;-13.1631, -72.5450;2025-06-25 15:21:50.745362+00:00;-13.1631;-72.545;Desconocido;Desconocido;Aguas Calientes 08680;Peru
-Hollywood Walk Of Fame;Hollywood, Los Angeles, Ca 90028, Usa;34.1016, -118.3414;2025-06-25 15:21:50.745362+00:00;34.1016;-118.3414;Hollywood;Los Angeles;Ca 90028;Usa
-Niagara Falls;Niagara Falls, Ny, Usa;43.0812, -79.0663;2025-06-25 15:21:50.745362+00:00;43.0812;-79.0663;Desconocido;Niagara Falls;Ny;Usa
-Mount Everest;Everest Base Camp, Nepal;27.9881, 86.9250;2025-06-25 15:21:50.745362+00:00;27.9881;86.925;Desconocido;Desconocido;Everest Base Camp;Nepal
-Petra;Wadi Musa, Jordan;30.3285, 35.4444;2025-06-25 15:21:50.745362+00:00;30.3285;35.4444;Desconocido;Desconocido;Wadi Musa;Jordan
-Machu Picchu;Machu Picchu 08680, Peru;-13.1631, -72.5450;2025-06-25 15:21:50.745362+00:00;-13.1631;-72.545;Desconocido;Desconocido;Machu Picchu 08680;Peru
-Golden Gate Bridge;Golden Gate Bridge, San Francisco, Ca, Usa;37.8199, -122.4783;2025-06-25 15:21:50.745362+00:00;37.8199;-122.4783;Golden Gate Bridge;San Francisco;Ca;Usa
-Times Square;Manhattan, Ny 10036, Usa;40.7580, -73.9855;2025-06-25 15:21:50.745362+00:00;40.758;-73.9855;Desconocido;Manhattan;Ny 10036;Usa
-Amazon Rainforest;Amazon Rainforest, South America;-3.4653, -62.2159;2025-06-25 15:21:50.745362+00:00;-3.4653;-62.2159;Desconocido;Desconocido;Amazon Rainforest;South America
-Mount Rushmore;Keystone, Sd 57751, Usa;43.8791, -103.4591;2025-06-25 15:21:50.745362+00:00;43.8791;-103.4591;Desconocido;Keystone;Sd 57751;Usa
-Red Square;Moscow, Russia;55.7539, 37.6208;2025-06-25 15:21:50.745362+00:00;55.7539;37.6208;Desconocido;Desconocido;Moscow;Russia
-Edinburgh Castle;Castlehill, Edinburgh Eh1 2Ng, Uk;55.9486, -3.1999;2025-06-25 15:21:50.745362+00:00;55.9486;-3.1999;Desconocido;Castlehill;Edinburgh Eh1 2Ng;Uk
-Sydney Harbour Bridge;Sydney Nsw, Australia;-33.8523, 151.2108;2025-06-25 15:21:50.745362+00:00;-33.8523;151.2108;Desconocido;Desconocido;Sydney Nsw;Australia
-Big Ben;Westminster, London Sw1A 0Aa, Uk;51.5007, -0.1246;2025-06-25 15:21:50.745362+00:00;51.5007;-0.1246;Desconocido;Westminster;London Sw1A 0Aa;Uk
-Pyramids Of Giza;Al Haram, Nazlet El-Semman, Al Haram, Giza Governorate, Egypt;29.9792, 31.1342;2025-06-25 15:21:50.745362+00:00;29.9792;31.1342;Nazlet El-Semman;Al Haram;Giza Governorate;Egypt
-Yellowstone National Park;Yellowstone National Park, Wy 82190, Usa;44.4279, -110.5885;2025-06-25 15:21:50.745362+00:00;44.4279;-110.5885;Desconocido;Yellowstone National Park;Wy 82190;Usa
-Hollywood Sign;Los Angeles, Ca 90068, Usa;34.1341, -118.3215;2025-06-25 15:21:50.745362+00:00;34.1341;-118.3215;Desconocido;Los Angeles;Ca 90068;Usa
-Louvre Museum;Rue De Rivoli, 75001 Paris, France;48.8606, 2.3376;2025-06-25 15:21:50.745362+00:00;48.8606;2.3376;Desconocido;Rue De Rivoli;75001 Paris;France
-Mount Fuji;Kitayama, Fujinomiya, Shizuoka 418-0112, Japan;35.3606, 138.7274;2025-06-25 15:21:50.745362+00:00;35.3606;138.7274;Kitayama;Fujinomiya;Shizuoka 418-0112;Japan
-Kremlin;Moscow, Russia;55.7517, 37.6178;2025-06-25 15:21:50.745362+00:00;55.7517;37.6178;Desconocido;Desconocido;Moscow;Russia
+Concepcion;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puente Alto;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Maipu;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Florida;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Antofagasta;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Vina Del Mar;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Bernardo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Valparaiso;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Temuco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Las Condes;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Osorno;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Rancagua;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Penalolen;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Quilicura;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Talca;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Coquimbo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Arica;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Serena;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Iquique;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Pintana;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+El Bosque;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puerto Montt;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chillan;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Talcahuano;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Copiapo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Calama;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Valdivia;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Melipilla;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Quilpue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Colina;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Los Angeles;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Curico;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Renca;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Conchali;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Villa Alemana;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Ovalle;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Punta Arenas;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Granja;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Macul;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Coronel;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Alto Hospicio;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lo Barnechea;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Espejo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Buin;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Ramon;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Joaquin;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Reina;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Penaflor;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Los Cerrillos;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Antonio;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chiguayante;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Padre Hurtado;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Padre Las Casas;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Linares;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Quillota;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Paine;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Felipe;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Coyhaique;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Los Andes;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Fernando;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Talagante;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Rengo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Villarrica;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Calera;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Angol;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Penco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Limache;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Vallenar;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Vicente De Tagua Tagua;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lota;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Clemente;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Machali;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Tome;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Alerce;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Constitucion;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Cauquenes;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Molina;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Parral;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Placilla De Penuelas;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Ancud;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Maule;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lampa;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Isla De Maipo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Santa Cruz;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Victoria;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Canete;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lautaro;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chimbarongo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Castro;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Curanilahue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Concon;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Quintero;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Nueva Imperial;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Graneros;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Monte Patria;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Javier;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Pucon;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Longavi;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Vicuna;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Cabrero;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Mulchen;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Teno;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chillan Viejo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Nacimiento;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Union;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+El Monte;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puerto Varas;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Requinoa;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Carahue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Salamanca;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Las Cabras;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Curacavi;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Tocopilla;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Quellon;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lebu;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Collipulli;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Cartagena;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Llaillay;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Vilcun;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Freire;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Laja;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Cruz;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Pitrufquen;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Casablanca;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Nogales;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puerto Natales;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Loncoche;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Los Vilos;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Hualqui;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Purranque;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Illapel;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Bulnes;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Yumbel;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Pichidegua;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Los Alamos;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Los Bajos;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Frutillar Alto;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Cabildo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Ligua;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Paillaco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Cunco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Donihue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Retiro;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Los Lagos;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Calera De Tango;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Hijuelas;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Coltauco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Colbun;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Arauco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Sagrada Familia;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puerto Aysen;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Traiguen;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Esteban;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Rio Bueno;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Batuco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Yerbas Buenas;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Pirque;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Curacautin;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Llanquihue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Caldera;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Los Muermos;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Calbuco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Coelemu;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Olmue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Maullin;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Teodoro Schmidt;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Nancagua;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Putaendo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Bellavista;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chepica;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Tiltil;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Rio Negro;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Villa Alegre;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Santa Maria;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Gorbea;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Peumo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Tierra Amarilla;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Diego De Almagro;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Futrono;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Combarbala;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Tucapel;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Santa Barbara;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Jose De Maipo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Calle Larga;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+El Tabo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Catemu;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Santa Juana;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chanaral;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Olivar Bajo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Olivar;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Frutillar;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puren;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Pichilemu;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Francisco De Mostazal;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Quirihue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Codegua;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Quinta De Tilcoco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Rinconada De Malloa;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Taltal;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Galvarino;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Palmilla;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lumaco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puyehue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+El Quisco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Panguipulli;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Andacollo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chicureo Abajo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Punitaqui;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Yungay;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Niquen;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Peralillo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Pinto;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Nicolas;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Cholchol;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Maria Pinto;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lonquimay;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Algarrobo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Pablo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Petorca;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Renaico;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Nueva Tolten;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Pedro;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Huachipato;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Tirua;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lago Ranco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Rauco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Negrete;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Curepto;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Hualane;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Pica;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Pozo Almonte;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Mejillones;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Canela Baja;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chanco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lo Miranda;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puerto Octay;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Huasco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Florida;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Rocas De Santo Domingo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Juan De La Costa;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Hualaihue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lanco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Oficina Maria Elena;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chonchi;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Cochrane;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Tolten;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puerto Williams;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Villa Ohiggins;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Toconao;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Cuya;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lagunas;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chuquicamata;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Santiago;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Concepcion;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puente Alto;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Maipu;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Florida;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Antofagasta;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Vina Del Mar;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Bernardo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Valparaiso;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Temuco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Las Condes;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Osorno;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Rancagua;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Penalolen;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Quilicura;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Talca;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Coquimbo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Arica;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Serena;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Iquique;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Pintana;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+El Bosque;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puerto Montt;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chillan;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Talcahuano;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Copiapo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Calama;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Valdivia;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Melipilla;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Quilpue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Colina;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Los Angeles;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Curico;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Renca;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Conchali;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Villa Alemana;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Ovalle;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Punta Arenas;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Granja;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Macul;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Coronel;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Alto Hospicio;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lo Barnechea;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Espejo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Buin;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Ramon;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Joaquin;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Reina;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Penaflor;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Los Cerrillos;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Antonio;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chiguayante;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Padre Hurtado;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Padre Las Casas;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Linares;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Quillota;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Paine;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Felipe;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Coyhaique;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Los Andes;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Fernando;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Talagante;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Rengo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Villarrica;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Calera;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Angol;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Penco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Limache;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Vallenar;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Vicente De Tagua Tagua;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lota;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Clemente;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Machali;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Tome;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Alerce;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Constitucion;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Cauquenes;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Molina;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Parral;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Placilla De Penuelas;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Ancud;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Maule;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lampa;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Isla De Maipo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Santa Cruz;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Victoria;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Canete;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lautaro;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chimbarongo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Castro;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Curanilahue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Concon;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Quintero;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Nueva Imperial;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Graneros;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Monte Patria;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Javier;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Pucon;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Longavi;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Vicuna;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Cabrero;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Mulchen;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Teno;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chillan Viejo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Nacimiento;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Union;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+El Monte;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puerto Varas;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Requinoa;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Carahue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Salamanca;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Las Cabras;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Curacavi;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Tocopilla;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Quellon;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lebu;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Collipulli;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Cartagena;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Llaillay;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Vilcun;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Freire;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Laja;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Cruz;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Pitrufquen;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Casablanca;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Nogales;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puerto Natales;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Loncoche;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Los Vilos;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Hualqui;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Purranque;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Illapel;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Bulnes;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Yumbel;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Pichidegua;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Los Alamos;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Los Bajos;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Frutillar Alto;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Cabildo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+La Ligua;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Paillaco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Cunco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Donihue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Retiro;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Los Lagos;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Calera De Tango;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Hijuelas;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Coltauco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Colbun;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Arauco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Sagrada Familia;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puerto Aysen;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Traiguen;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Esteban;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Rio Bueno;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Batuco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Yerbas Buenas;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Pirque;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Curacautin;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Llanquihue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Caldera;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Los Muermos;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Calbuco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Coelemu;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Olmue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Maullin;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Teodoro Schmidt;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Nancagua;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Putaendo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Bellavista;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chepica;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Tiltil;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Rio Negro;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Villa Alegre;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Santa Maria;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Gorbea;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Peumo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Tierra Amarilla;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Diego De Almagro;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Futrono;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Combarbala;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Tucapel;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Santa Barbara;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Jose De Maipo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Calle Larga;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+El Tabo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Catemu;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Santa Juana;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chanaral;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Olivar Bajo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Olivar;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Frutillar;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puren;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Pichilemu;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Francisco De Mostazal;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Quirihue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Codegua;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Quinta De Tilcoco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Rinconada De Malloa;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Taltal;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Galvarino;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Palmilla;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lumaco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puyehue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+El Quisco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Panguipulli;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Andacollo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chicureo Abajo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Punitaqui;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Yungay;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Niquen;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Peralillo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Pinto;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Nicolas;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Cholchol;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Maria Pinto;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lonquimay;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Algarrobo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Pablo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Petorca;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Renaico;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Nueva Tolten;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Pedro;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Huachipato;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Tirua;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lago Ranco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Rauco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Negrete;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Curepto;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Hualane;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Pica;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Pozo Almonte;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Mejillones;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Canela Baja;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chanco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lo Miranda;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puerto Octay;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Huasco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Florida;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Rocas De Santo Domingo;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+San Juan De La Costa;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Hualaihue;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lanco;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Oficina Maria Elena;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chonchi;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Cochrane;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Tolten;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Puerto Williams;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Villa Ohiggins;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Toconao;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Cuya;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Lagunas;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
+Chuquicamata;Desconocido;0.0,0.0;2025-06-30 21:55:46.891604+00:00;0.0;0.0;Desconocido;Desconocido;Desconocido;Desconocido
